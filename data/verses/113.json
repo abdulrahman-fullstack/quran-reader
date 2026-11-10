@@ -1,0 +1,46 @@
+{
+  "chapterId": 113,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "englishText": "Say, \"I seek refuge in the Lord of daybreak",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/113001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "مِن شَرِّ مَا خَلَقَ",
+      "englishText": "From the evil of that which He created",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/113002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "englishText": "And from the evil of darkness when it settles",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/113003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+      "englishText": "And from the evil of the blowers in knots[2014]",
+      "footnotes": "[2014] i.e., those who practice magic.",
+      "audioUrl": "Alafasy/mp3/113004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "englishText": "And from the evil of an envier when he envies.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/113005.mp3"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "chapterId": 95,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": "وَٱلتِّينِ وَٱلزَّيْتُونِ",
+      "englishText": "By the fig and the olive[1947]",
+      "footnotes": "[1947] Referring to the places known for their production, i.e., Damascus and Jerusalem, respectively. It could also refer to the fig and olive trees or to the fruits themselves.",
+      "audioUrl": "Alafasy/mp3/095001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "وَطُورِ سِينِينَ",
+      "englishText": "And [by] Mount Sinai",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/095002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "وَهَـٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+      "englishText": "And [by] this secure city [i.e., Makkah],",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/095003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ",
+      "englishText": "We have certainly created man in the best of stature;[1948]",
+      "footnotes": "[1948] i.e., upright, symmetrical, and balanced in form and nature.",
+      "audioUrl": "Alafasy/mp3/095004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ",
+      "englishText": "Then We return him to the lowest of the low,[1949]",
+      "footnotes": "[1949] This can refer to the depths of Hell, to decrepit old age or to immorality.",
+      "audioUrl": "Alafasy/mp3/095005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "englishText": "Except for those who believe and do righteous deeds, for they will have a reward uninterrupted.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/095006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+      "englishText": "So what yet causes you to deny the Recompense?[1950]",
+      "footnotes": "[1950] More literally, \"What makes you lie concerning it?\"",
+      "audioUrl": "Alafasy/mp3/095007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ",
+      "englishText": "Is not Allāh the most just of judges?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/095008.mp3"
+    }
+  ]
+}

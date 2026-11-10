@@ -1,0 +1,74 @@
+{
+  "chapterId": 104,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+      "englishText": "Woe to every scorner and mocker",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/104001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+      "englishText": "Who collects wealth and [continuously] counts it.[1987]",
+      "footnotes": "[1987] Rather than spending in the way of Allāh.",
+      "audioUrl": "Alafasy/mp3/104002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "englishText": "He thinks that his wealth will make him immortal.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/104003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+      "englishText": "No! He will surely be thrown into the Crusher.[1988]",
+      "footnotes": "[1988] i.e., Hellfire, which crushes and destroys all that enters it.",
+      "audioUrl": "Alafasy/mp3/104004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+      "englishText": "And what can make you know what is the Crusher?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/104005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+      "englishText": "It is the fire of Allāh, [eternally] fueled,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/104006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+      "englishText": "Which mounts directed at the hearts.[1989]",
+      "footnotes": "[1989] Covering them and penetrating them.",
+      "audioUrl": "Alafasy/mp3/104007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+      "englishText": "Indeed, it [i.e., Hellfire] will be closed down upon them",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/104008.mp3"
+    },
+    {
+      "number": 9,
+      "arabicText": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+      "englishText": "In extended columns.[1990]",
+      "footnotes": "[1990] Interpreted to be either columns of fire or columns of iron to which are chained the inmates of Hell.",
+      "audioUrl": "Alafasy/mp3/104009.mp3"
+    }
+  ]
+}

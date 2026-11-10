@@ -1,0 +1,88 @@
+{
+  "chapterId": 93,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " وَٱلضُّحَىٰ",
+      "englishText": "By the morning brightness",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/093001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "englishText": "And [by] the night when it covers with darkness,[1941]",
+      "footnotes": "[1941] And becomes still.",
+      "audioUrl": "Alafasy/mp3/093002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "englishText": "Your Lord has not taken leave of you, [O Muḥammad], nor has He detested [you].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/093003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "englishText": "And the Hereafter is better for you than the first [life].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/093004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "englishText": "And your Lord is going to give you, and you will be satisfied.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/093005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+      "englishText": "Did He not find you an orphan and give [you] refuge?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/093006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "englishText": "And He found you lost and guided [you],",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/093007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "englishText": "And He found you poor and made [you] self-sufficient.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/093008.mp3"
+    },
+    {
+      "number": 9,
+      "arabicText": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+      "englishText": "So as for the orphan, do not oppress [him].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/093009.mp3"
+    },
+    {
+      "number": 10,
+      "arabicText": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "englishText": "And as for the petitioner,[1942] do not repel [him].",
+      "footnotes": "[1942] Anyone who seeks aid or knowledge.",
+      "audioUrl": "Alafasy/mp3/093010.mp3"
+    },
+    {
+      "number": 11,
+      "arabicText": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "englishText": "But as for the favor of your Lord, report [it].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/093011.mp3"
+    }
+  ]
+}

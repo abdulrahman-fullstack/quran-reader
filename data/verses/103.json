@@ -1,0 +1,32 @@
+{
+  "chapterId": 103,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " وَٱلْعَصْرِ",
+      "englishText": "By time,[1985]",
+      "footnotes": "[1985] An oath in which Allāh swears by time throughout the ages.",
+      "audioUrl": "Alafasy/mp3/103001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+      "englishText": "Indeed, mankind is in loss,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/103002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "englishText": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/103003.mp3"
+    }
+  ]
+}

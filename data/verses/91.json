@@ -1,0 +1,116 @@
+{
+  "chapterId": 91,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " وَٱلشَّمْسِ وَضُحَىٰهَا",
+      "englishText": "By the sun and its brightness",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/091001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+      "englishText": "And [by] the moon when it follows it",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/091002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+      "englishText": "And [by] the day when it displays it[1931]",
+      "footnotes": "[1931] The earth. Also interpreted as the sun. The same applies to the following verse.",
+      "audioUrl": "Alafasy/mp3/091003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+      "englishText": "And [by] the night when it covers [i.e., conceals] it",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/091004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+      "englishText": "And [by] the sky and He who constructed it",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/091005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+      "englishText": "And [by] the earth and He who spread it",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/091006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
+      "englishText": "And [by] the soul and He who proportioned it[1932]",
+      "footnotes": "[1932] i.e., balanced and refined it, creating in it sound tendencies and consciousness.",
+      "audioUrl": "Alafasy/mp3/091007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+      "englishText": "And inspired it [with discernment of] its wickedness and its righteousness,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/091008.mp3"
+    },
+    {
+      "number": 9,
+      "arabicText": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+      "englishText": "He has succeeded who purifies it,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/091009.mp3"
+    },
+    {
+      "number": 10,
+      "arabicText": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+      "englishText": "And he has failed who instills it [with corruption].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/091010.mp3"
+    },
+    {
+      "number": 11,
+      "arabicText": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+      "englishText": "Thamūd denied [their prophet] by reason of their transgression,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/091011.mp3"
+    },
+    {
+      "number": 12,
+      "arabicText": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+      "englishText": "When the most wretched of them was sent forth.[1933]",
+      "footnotes": "[1933] To hamstring the she-camel which had been sent by Allāh as a sign to them.",
+      "audioUrl": "Alafasy/mp3/091012.mp3"
+    },
+    {
+      "number": 13,
+      "arabicText": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا",
+      "englishText": "And the messenger of Allāh [i.e., Ṣāliḥ] said to them, \"[Do not harm] the she-camel of Allāh or [prevent her from] her drink.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/091013.mp3"
+    },
+    {
+      "number": 14,
+      "arabicText": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+      "englishText": "But they denied him and hamstrung[1934] her. So their Lord brought down upon them destruction for their sin and made it equal [upon all of them].",
+      "footnotes": "[1934] And then killed.",
+      "audioUrl": "Alafasy/mp3/091014.mp3"
+    },
+    {
+      "number": 15,
+      "arabicText": "وَلَا يَخَافُ عُقْبَـٰهَا",
+      "englishText": "And He does not fear the consequence thereof.[1935]",
+      "footnotes": "[1935] Allāh is not asked about what He does, but His servants will be asked. See 21:23.",
+      "audioUrl": "Alafasy/mp3/091015.mp3"
+    }
+  ]
+}

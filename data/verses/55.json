@@ -1,0 +1,557 @@
+{
+  "chapterId": 55,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " ٱلرَّحْمَـٰنُ",
+      "englishText": "The Most Merciful",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "عَلَّمَ ٱلْقُرْءَانَ",
+      "englishText": "Taught the Qur’ān,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "خَلَقَ ٱلْإِنسَـٰنَ",
+      "englishText": "Created man,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "عَلَّمَهُ ٱلْبَيَانَ",
+      "englishText": "[And] taught him eloquence.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ",
+      "englishText": "The sun and the moon [move] by precise calculation,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+      "englishText": "And the stars and trees prostrate.[1593]",
+      "footnotes": "[1593] They submit obediently to the laws of Allāh. See 22:18. An additional meaning of \"najm\" is vegetation of a kind without a trunk, stalk or stem.",
+      "audioUrl": "Alafasy/mp3/055006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+      "englishText": "And the heaven He raised and imposed the balance",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ",
+      "englishText": "That you not transgress within the balance.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055008.mp3"
+    },
+    {
+      "number": 9,
+      "arabicText": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+      "englishText": "And establish weight in justice and do not make deficient the balance.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055009.mp3"
+    },
+    {
+      "number": 10,
+      "arabicText": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+      "englishText": "And the earth He laid [out] for the creatures.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055010.mp3"
+    },
+    {
+      "number": 11,
+      "arabicText": "فِيهَا فَـٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ",
+      "englishText": "Therein is fruit and palm trees having sheaths [of dates]",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055011.mp3"
+    },
+    {
+      "number": 12,
+      "arabicText": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ",
+      "englishText": "And grain having husks and scented plants.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055012.mp3"
+    },
+    {
+      "number": 13,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?[1594]",
+      "footnotes": "[1594] Literally, \"you two,\" addressing the species of mankind and jinn.",
+      "audioUrl": "Alafasy/mp3/055013.mp3"
+    },
+    {
+      "number": 14,
+      "arabicText": "خَلَقَ ٱلْإِنسَـٰنَ مِن صَلْصَـٰلٍ كَٱلْفَخَّارِ",
+      "englishText": "He created man from clay like [that of] pottery.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055014.mp3"
+    },
+    {
+      "number": 15,
+      "arabicText": "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ",
+      "englishText": "And He created the jinn from a smokeless flame of fire.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055015.mp3"
+    },
+    {
+      "number": 16,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055016.mp3"
+    },
+    {
+      "number": 17,
+      "arabicText": "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ",
+      "englishText": "[He is] Lord of the two sunrises and Lord of the two sunsets.[1595]",
+      "footnotes": "[1595] i.e., the points of sunrise in the east and sunset in the west in both summer and winter.",
+      "audioUrl": "Alafasy/mp3/055017.mp3"
+    },
+    {
+      "number": 18,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055018.mp3"
+    },
+    {
+      "number": 19,
+      "arabicText": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ",
+      "englishText": "He released the two seas,[1596] meeting [one another];",
+      "footnotes": "[1596] Two bodies of water or two sea waters of distinct characteristics.",
+      "audioUrl": "Alafasy/mp3/055019.mp3"
+    },
+    {
+      "number": 20,
+      "arabicText": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ",
+      "englishText": "Between them is a barrier so neither of them transgresses.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055020.mp3"
+    },
+    {
+      "number": 21,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055021.mp3"
+    },
+    {
+      "number": 22,
+      "arabicText": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ",
+      "englishText": "From both of them emerge pearl and coral.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055022.mp3"
+    },
+    {
+      "number": 23,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055023.mp3"
+    },
+    {
+      "number": 24,
+      "arabicText": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَـٰمِ",
+      "englishText": "And to Him belong the ships [with sails] elevated in the sea like mountains.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055024.mp3"
+    },
+    {
+      "number": 25,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055025.mp3"
+    },
+    {
+      "number": 26,
+      "arabicText": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+      "englishText": "Everyone upon it [i.e., the earth] will perish,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055026.mp3"
+    },
+    {
+      "number": 27,
+      "arabicText": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+      "englishText": "And there will remain the Face[1597] of your Lord, Owner of Majesty and Honor.",
+      "footnotes": "[1597] See footnote to 2:19.",
+      "audioUrl": "Alafasy/mp3/055027.mp3"
+    },
+    {
+      "number": 28,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055028.mp3"
+    },
+    {
+      "number": 29,
+      "arabicText": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍ",
+      "englishText": "Whoever is within the heavens and earth asks Him; every day He is in [i.e., bringing about] a matter.[1598]",
+      "footnotes": "[1598] For each of His creatures.",
+      "audioUrl": "Alafasy/mp3/055029.mp3"
+    },
+    {
+      "number": 30,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055030.mp3"
+    },
+    {
+      "number": 31,
+      "arabicText": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+      "englishText": "We will attend to you, O prominent beings.[1599]",
+      "footnotes": "[1599] Specifically two: mankind and jinn.",
+      "audioUrl": "Alafasy/mp3/055031.mp3"
+    },
+    {
+      "number": 32,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055032.mp3"
+    },
+    {
+      "number": 33,
+      "arabicText": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَـٰنٍ",
+      "englishText": "O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allāh].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055033.mp3"
+    },
+    {
+      "number": 34,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055034.mp3"
+    },
+    {
+      "number": 35,
+      "arabicText": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ",
+      "englishText": "There will be sent upon you a flame of fire and smoke,[1600] and you will not defend yourselves.",
+      "footnotes": "[1600] Another possible meaning is liquefied brass or copper.",
+      "audioUrl": "Alafasy/mp3/055035.mp3"
+    },
+    {
+      "number": 36,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055036.mp3"
+    },
+    {
+      "number": 37,
+      "arabicText": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً كَٱلدِّهَانِ",
+      "englishText": "And when the heaven is split open and becomes rose-colored like oil[1601] -",
+      "footnotes": "[1601] Or \"like a tanned skin.\"",
+      "audioUrl": "Alafasy/mp3/055037.mp3"
+    },
+    {
+      "number": 38,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny? -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055038.mp3"
+    },
+    {
+      "number": 39,
+      "arabicText": "فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌ وَلَا جَآنٌّ",
+      "englishText": "Then on that Day none will be asked about his sin among men or jinn.[1602]",
+      "footnotes": "[1602] Once they have been condemned to the Fire.",
+      "audioUrl": "Alafasy/mp3/055039.mp3"
+    },
+    {
+      "number": 40,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055040.mp3"
+    },
+    {
+      "number": 41,
+      "arabicText": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ",
+      "englishText": "The criminals will be known by their marks, and they will be seized by the forelocks and the feet.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055041.mp3"
+    },
+    {
+      "number": 42,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055042.mp3"
+    },
+    {
+      "number": 43,
+      "arabicText": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ",
+      "englishText": "This is Hell, which the criminals deny.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055043.mp3"
+    },
+    {
+      "number": 44,
+      "arabicText": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ",
+      "englishText": "They will circulate between it and scalding water, heated [to the utmost degree].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055044.mp3"
+    },
+    {
+      "number": 45,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055045.mp3"
+    },
+    {
+      "number": 46,
+      "arabicText": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+      "englishText": "But for he who has feared the position of his Lord[1603] are two gardens -",
+      "footnotes": "[1603] An alternative meaning is \"the standing [for account] before his Lord.\"",
+      "audioUrl": "Alafasy/mp3/055046.mp3"
+    },
+    {
+      "number": 47,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny? -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055047.mp3"
+    },
+    {
+      "number": 48,
+      "arabicText": "ذَوَاتَآ أَفْنَانٍ",
+      "englishText": "Having [spreading] branches.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055048.mp3"
+    },
+    {
+      "number": 49,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055049.mp3"
+    },
+    {
+      "number": 50,
+      "arabicText": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+      "englishText": "In both of them are two springs, flowing.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055050.mp3"
+    },
+    {
+      "number": 51,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055051.mp3"
+    },
+    {
+      "number": 52,
+      "arabicText": "فِيهِمَا مِن كُلِّ فَـٰكِهَةٍ زَوْجَانِ",
+      "englishText": "In both of them are of every fruit, two kinds.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055052.mp3"
+    },
+    {
+      "number": 53,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055053.mp3"
+    },
+    {
+      "number": 54,
+      "arabicText": "مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍ",
+      "englishText": "[They are] reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055054.mp3"
+    },
+    {
+      "number": 55,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055055.mp3"
+    },
+    {
+      "number": 56,
+      "arabicText": "فِيهِنَّ قَـٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+      "englishText": "In them are women limiting [their] glances,[1604] untouched[1605] before them by man or jinnī -",
+      "footnotes": "[1604] To their own mates, i.e., being chaste and modest.\n[1605] Literally, they have not been caused to bleed by loss of virginity.",
+      "audioUrl": "Alafasy/mp3/055056.mp3"
+    },
+    {
+      "number": 57,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny? -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055057.mp3"
+    },
+    {
+      "number": 58,
+      "arabicText": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
+      "englishText": "As if they were rubies and coral.[1606]",
+      "footnotes": "[1606] In purity, color and beauty.",
+      "audioUrl": "Alafasy/mp3/055058.mp3"
+    },
+    {
+      "number": 59,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055059.mp3"
+    },
+    {
+      "number": 60,
+      "arabicText": "هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ",
+      "englishText": "Is the reward for good [anything] but good?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055060.mp3"
+    },
+    {
+      "number": 61,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055061.mp3"
+    },
+    {
+      "number": 62,
+      "arabicText": "وَمِن دُونِهِمَا جَنَّتَانِ",
+      "englishText": "And below them both [in excellence] are two [other] gardens -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055062.mp3"
+    },
+    {
+      "number": 63,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny? -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055063.mp3"
+    },
+    {
+      "number": 64,
+      "arabicText": "مُدْهَآمَّتَانِ",
+      "englishText": "Dark green [in color].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055064.mp3"
+    },
+    {
+      "number": 65,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055065.mp3"
+    },
+    {
+      "number": 66,
+      "arabicText": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+      "englishText": "In both of them are two springs, spouting.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055066.mp3"
+    },
+    {
+      "number": 67,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055067.mp3"
+    },
+    {
+      "number": 68,
+      "arabicText": "فِيهِمَا فَـٰكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+      "englishText": "In both of them are fruit and palm trees and pomegranates.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055068.mp3"
+    },
+    {
+      "number": 69,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055069.mp3"
+    },
+    {
+      "number": 70,
+      "arabicText": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌ",
+      "englishText": "In them are good and beautiful women -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055070.mp3"
+    },
+    {
+      "number": 71,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny? -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055071.mp3"
+    },
+    {
+      "number": 72,
+      "arabicText": "حُورٌ مَّقْصُورَٰتٌ فِى ٱلْخِيَامِ",
+      "englishText": "Fair ones reserved in pavilions -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055072.mp3"
+    },
+    {
+      "number": 73,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny? -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055073.mp3"
+    },
+    {
+      "number": 74,
+      "arabicText": "لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+      "englishText": "Untouched before them by man or jinnī -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055074.mp3"
+    },
+    {
+      "number": 75,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny? -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055075.mp3"
+    },
+    {
+      "number": 76,
+      "arabicText": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِىٍّ حِسَانٍ",
+      "englishText": "Reclining on green cushions and beautiful fine carpets.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055076.mp3"
+    },
+    {
+      "number": 77,
+      "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "englishText": "So which of the favors of your Lord would you deny?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055077.mp3"
+    },
+    {
+      "number": 78,
+      "arabicText": "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+      "englishText": "Blessed is the name of your Lord, Owner of Majesty and Honor.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/055078.mp3"
+    }
+  ]
+}

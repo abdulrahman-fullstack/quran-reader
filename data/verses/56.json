@@ -1,0 +1,683 @@
+{
+  "chapterId": 56,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " إِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
+      "englishText": "When the Occurrence occurs,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+      "englishText": "There is, at its occurrence, no denial.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "خَافِضَةٌ رَّافِعَةٌ",
+      "englishText": "It will bring down [some] and raise up [others].[1608]",
+      "footnotes": "[1608] According to their deeds rather than wealth and social position, as is the case in this world.",
+      "audioUrl": "Alafasy/mp3/056003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "إِذَا رُجَّتِ ٱلْأَرْضُ رَجًّا",
+      "englishText": "When the earth is shaken with convulsion",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "وَبُسَّتِ ٱلْجِبَالُ بَسًّا",
+      "englishText": "And the mountains are broken down, crumbling",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "فَكَانَتْ هَبَآءً مُّنۢبَثًّا",
+      "englishText": "And become dust dispersing,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "وَكُنتُمْ أَزْوَٰجًا ثَلَـٰثَةً",
+      "englishText": "And you become [of] three kinds:",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "فَأَصْحَـٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+      "englishText": "Then the companions of the right - what are the companions of the right?[1609]",
+      "footnotes": "[1609] i.e., those given their records in their right hand and who are destined for Paradise.",
+      "audioUrl": "Alafasy/mp3/056008.mp3"
+    },
+    {
+      "number": 9,
+      "arabicText": "وَأَصْحَـٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+      "englishText": "And the companions of the left - what are companions of the left?[1610]",
+      "footnotes": "[1610] i.e., those given their records in their left hand and who are destined for Hell.",
+      "audioUrl": "Alafasy/mp3/056009.mp3"
+    },
+    {
+      "number": 10,
+      "arabicText": "وَٱلسَّـٰبِقُونَ ٱلسَّـٰبِقُونَ",
+      "englishText": "And the forerunners, the forerunners[1611] -",
+      "footnotes": "[1611] The words can also be understood as a complete sentence, i.e., \"The forerunners [in good deeds] are the forerunners [in entering Paradise].\"",
+      "audioUrl": "Alafasy/mp3/056010.mp3"
+    },
+    {
+      "number": 11,
+      "arabicText": "أُو۟لَـٰٓئِكَ ٱلْمُقَرَّبُونَ",
+      "englishText": "Those are the ones brought near [to Allāh]",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056011.mp3"
+    },
+    {
+      "number": 12,
+      "arabicText": "فِى جَنَّـٰتِ ٱلنَّعِيمِ",
+      "englishText": "In the Gardens of Pleasure,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056012.mp3"
+    },
+    {
+      "number": 13,
+      "arabicText": "ثُلَّةٌ مِّنَ ٱلْأَوَّلِينَ",
+      "englishText": "A [large] company of the former peoples",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056013.mp3"
+    },
+    {
+      "number": 14,
+      "arabicText": "وَقَلِيلٌ مِّنَ ٱلْـَٔاخِرِينَ",
+      "englishText": "And a few of the later peoples,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056014.mp3"
+    },
+    {
+      "number": 15,
+      "arabicText": "عَلَىٰ سُرُرٍ مَّوْضُونَةٍ",
+      "englishText": "On thrones woven [with ornament],",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056015.mp3"
+    },
+    {
+      "number": 16,
+      "arabicText": "مُّتَّكِـِٔينَ عَلَيْهَا مُتَقَـٰبِلِينَ",
+      "englishText": "Reclining on them, facing each other.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056016.mp3"
+    },
+    {
+      "number": 17,
+      "arabicText": "يَطُوفُ عَلَيْهِمْ وِلْدَٰنٌ مُّخَلَّدُونَ",
+      "englishText": "There will circulate among them young boys made eternal",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056017.mp3"
+    },
+    {
+      "number": 18,
+      "arabicText": "بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِّن مَّعِينٍ",
+      "englishText": "With vessels, pitchers and a cup [of wine] from a flowing spring -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056018.mp3"
+    },
+    {
+      "number": 19,
+      "arabicText": "لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ",
+      "englishText": "No headache will they have therefrom, nor will they be intoxicated -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056019.mp3"
+    },
+    {
+      "number": 20,
+      "arabicText": "وَفَـٰكِهَةٍ مِّمَّا يَتَخَيَّرُونَ",
+      "englishText": "And fruit of what they select",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056020.mp3"
+    },
+    {
+      "number": 21,
+      "arabicText": "وَلَحْمِ طَيْرٍ مِّمَّا يَشْتَهُونَ",
+      "englishText": "And the meat of fowl, from whatever they desire.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056021.mp3"
+    },
+    {
+      "number": 22,
+      "arabicText": "وَحُورٌ عِينٌ",
+      "englishText": "And [for them are] fair women with large, [beautiful] eyes,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056022.mp3"
+    },
+    {
+      "number": 23,
+      "arabicText": "كَأَمْثَـٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ",
+      "englishText": "The likenesses of pearls well-protected,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056023.mp3"
+    },
+    {
+      "number": 24,
+      "arabicText": "جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "englishText": "As reward for what they used to do.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056024.mp3"
+    },
+    {
+      "number": 25,
+      "arabicText": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
+      "englishText": "They will not hear therein ill speech or commission of sin -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056025.mp3"
+    },
+    {
+      "number": 26,
+      "arabicText": "إِلَّا قِيلًا سَلَـٰمًا سَلَـٰمًا",
+      "englishText": "Only a saying [of] peace, peace.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056026.mp3"
+    },
+    {
+      "number": 27,
+      "arabicText": "وَأَصْحَـٰبُ ٱلْيَمِينِ مَآ أَصْحَـٰبُ ٱلْيَمِينِ",
+      "englishText": "The companions of the right - what are the companions of the right?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056027.mp3"
+    },
+    {
+      "number": 28,
+      "arabicText": "فِى سِدْرٍ مَّخْضُودٍ",
+      "englishText": "[They will be] among lote trees with thorns removed",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056028.mp3"
+    },
+    {
+      "number": 29,
+      "arabicText": "وَطَلْحٍ مَّنضُودٍ",
+      "englishText": "And [banana] trees layered [with fruit]",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056029.mp3"
+    },
+    {
+      "number": 30,
+      "arabicText": "وَظِلٍّ مَّمْدُودٍ",
+      "englishText": "And shade extended",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056030.mp3"
+    },
+    {
+      "number": 31,
+      "arabicText": "وَمَآءٍ مَّسْكُوبٍ",
+      "englishText": "And water poured out",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056031.mp3"
+    },
+    {
+      "number": 32,
+      "arabicText": "وَفَـٰكِهَةٍ كَثِيرَةٍ",
+      "englishText": "And fruit, abundant [and varied],",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056032.mp3"
+    },
+    {
+      "number": 33,
+      "arabicText": "لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ",
+      "englishText": "Neither limited [to season] nor forbidden,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056033.mp3"
+    },
+    {
+      "number": 34,
+      "arabicText": "وَفُرُشٍ مَّرْفُوعَةٍ",
+      "englishText": "And [upon] beds raised high.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056034.mp3"
+    },
+    {
+      "number": 35,
+      "arabicText": "إِنَّآ أَنشَأْنَـٰهُنَّ إِنشَآءً",
+      "englishText": "Indeed, We have produced them [i.e., the women of Paradise] in a [new] creation",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056035.mp3"
+    },
+    {
+      "number": 36,
+      "arabicText": "فَجَعَلْنَـٰهُنَّ أَبْكَارًا",
+      "englishText": "And made them virgins,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056036.mp3"
+    },
+    {
+      "number": 37,
+      "arabicText": "عُرُبًا أَتْرَابًا",
+      "englishText": "Devoted [to their husbands] and of equal age,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056037.mp3"
+    },
+    {
+      "number": 38,
+      "arabicText": "لِّأَصْحَـٰبِ ٱلْيَمِينِ",
+      "englishText": "For the companions of the right [who are]",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056038.mp3"
+    },
+    {
+      "number": 39,
+      "arabicText": "ثُلَّةٌ مِّنَ ٱلْأَوَّلِينَ",
+      "englishText": "A company of the former peoples",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056039.mp3"
+    },
+    {
+      "number": 40,
+      "arabicText": "وَثُلَّةٌ مِّنَ ٱلْـَٔاخِرِينَ",
+      "englishText": "And a company of the later peoples.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056040.mp3"
+    },
+    {
+      "number": 41,
+      "arabicText": "وَأَصْحَـٰبُ ٱلشِّمَالِ مَآ أَصْحَـٰبُ ٱلشِّمَالِ",
+      "englishText": "And the companions of the left - what are the companions of the left?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056041.mp3"
+    },
+    {
+      "number": 42,
+      "arabicText": "فِى سَمُومٍ وَحَمِيمٍ",
+      "englishText": "[They will be] in scorching fire and scalding water",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056042.mp3"
+    },
+    {
+      "number": 43,
+      "arabicText": "وَظِلٍّ مِّن يَحْمُومٍ",
+      "englishText": "And a shade of black smoke,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056043.mp3"
+    },
+    {
+      "number": 44,
+      "arabicText": "لَّا بَارِدٍ وَلَا كَرِيمٍ",
+      "englishText": "Neither cool nor beneficial.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056044.mp3"
+    },
+    {
+      "number": 45,
+      "arabicText": "إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
+      "englishText": "Indeed they were, before that, indulging in affluence,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056045.mp3"
+    },
+    {
+      "number": 46,
+      "arabicText": "وَكَانُوا۟ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ",
+      "englishText": "And they used to persist in the great violation,[1612]",
+      "footnotes": "[1612] i.e., shirk (association with Allāh) or disbelief.",
+      "audioUrl": "Alafasy/mp3/056046.mp3"
+    },
+    {
+      "number": 47,
+      "arabicText": "وَكَانُوا۟ يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "englishText": "And they used to say, \"When we die and become dust and bones, are we indeed to be resurrected?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056047.mp3"
+    },
+    {
+      "number": 48,
+      "arabicText": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+      "englishText": "And our forefathers [as well]?\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056048.mp3"
+    },
+    {
+      "number": 49,
+      "arabicText": "قُلْ إِنَّ ٱلْأَوَّلِينَ وَٱلْـَٔاخِرِينَ",
+      "englishText": "Say, [O Muḥammad], \"Indeed, the former and later peoples",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056049.mp3"
+    },
+    {
+      "number": 50,
+      "arabicText": "لَمَجْمُوعُونَ إِلَىٰ مِيقَـٰتِ يَوْمٍ مَّعْلُومٍ",
+      "englishText": "Are to be gathered together for the appointment of a known Day.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056050.mp3"
+    },
+    {
+      "number": 51,
+      "arabicText": "ثُمَّ إِنَّكُمْ أَيُّهَا ٱلضَّآلُّونَ ٱلْمُكَذِّبُونَ",
+      "englishText": "Then indeed you, O those astray [who are] deniers,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056051.mp3"
+    },
+    {
+      "number": 52,
+      "arabicText": "لَـَٔاكِلُونَ مِن شَجَرٍ مِّن زَقُّومٍ",
+      "englishText": "Will be eating from trees of zaqqūm",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056052.mp3"
+    },
+    {
+      "number": 53,
+      "arabicText": "فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ",
+      "englishText": "And filling with it your bellies",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056053.mp3"
+    },
+    {
+      "number": 54,
+      "arabicText": "فَشَـٰرِبُونَ عَلَيْهِ مِنَ ٱلْحَمِيمِ",
+      "englishText": "And drinking on top of it from scalding water",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056054.mp3"
+    },
+    {
+      "number": 55,
+      "arabicText": "فَشَـٰرِبُونَ شُرْبَ ٱلْهِيمِ",
+      "englishText": "And will drink as the drinking of thirsty camels.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056055.mp3"
+    },
+    {
+      "number": 56,
+      "arabicText": "هَـٰذَا نُزُلُهُمْ يَوْمَ ٱلدِّينِ",
+      "englishText": "That is their accommodation on the Day of Recompense.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056056.mp3"
+    },
+    {
+      "number": 57,
+      "arabicText": "نَحْنُ خَلَقْنَـٰكُمْ فَلَوْلَا تُصَدِّقُونَ",
+      "englishText": "We have created you, so why do you not believe?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056057.mp3"
+    },
+    {
+      "number": 58,
+      "arabicText": "أَفَرَءَيْتُم مَّا تُمْنُونَ",
+      "englishText": "Have you seen that which you emit?[1613]",
+      "footnotes": "[1613] i.e., semen, which contains the potential for human life.",
+      "audioUrl": "Alafasy/mp3/056058.mp3"
+    },
+    {
+      "number": 59,
+      "arabicText": "ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَـٰلِقُونَ",
+      "englishText": "Is it you who creates it, or are We the Creator?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056059.mp3"
+    },
+    {
+      "number": 60,
+      "arabicText": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+      "englishText": "We have decreed death among you, and We are not to be outdone",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056060.mp3"
+    },
+    {
+      "number": 61,
+      "arabicText": "عَلَىٰٓ أَن نُّبَدِّلَ أَمْثَـٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ",
+      "englishText": "In that We will change your likenesses and produce you in that [form] which you do not know.[1614]",
+      "footnotes": "[1614] An alternative meaning has also been given: \"...in that We will replace the likes of you [with others upon the earth] and create you [in the Hereafter] in that which you do not know.\"",
+      "audioUrl": "Alafasy/mp3/056061.mp3"
+    },
+    {
+      "number": 62,
+      "arabicText": "وَلَقَدْ عَلِمْتُمُ ٱلنَّشْأَةَ ٱلْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+      "englishText": "And you have already known the first creation, so will you not remember?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056062.mp3"
+    },
+    {
+      "number": 63,
+      "arabicText": "أَفَرَءَيْتُم مَّا تَحْرُثُونَ",
+      "englishText": "And have you seen that [seed] which you sow?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056063.mp3"
+    },
+    {
+      "number": 64,
+      "arabicText": "ءَأَنتُمْ تَزْرَعُونَهُۥٓ أَمْ نَحْنُ ٱلزَّٰرِعُونَ",
+      "englishText": "Is it you who makes it grow, or are We the grower?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056064.mp3"
+    },
+    {
+      "number": 65,
+      "arabicText": "لَوْ نَشَآءُ لَجَعَلْنَـٰهُ حُطَـٰمًا فَظَلْتُمْ تَفَكَّهُونَ",
+      "englishText": "If We willed, We could make it [dry] debris, and you would remain in wonder,[1615]",
+      "footnotes": "[1615] At what had happened or remain in a state of shock. Another meaning is \"in regret.\"",
+      "audioUrl": "Alafasy/mp3/056065.mp3"
+    },
+    {
+      "number": 66,
+      "arabicText": "إِنَّا لَمُغْرَمُونَ",
+      "englishText": "[Saying], \"Indeed, we are [now] in debt;",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056066.mp3"
+    },
+    {
+      "number": 67,
+      "arabicText": "بَلْ نَحْنُ مَحْرُومُونَ",
+      "englishText": "Rather, we have been deprived.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056067.mp3"
+    },
+    {
+      "number": 68,
+      "arabicText": "أَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِى تَشْرَبُونَ",
+      "englishText": "And have you seen the water that you drink?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056068.mp3"
+    },
+    {
+      "number": 69,
+      "arabicText": "ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ",
+      "englishText": "Is it you who brought it down from the clouds, or is it We who bring it down?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056069.mp3"
+    },
+    {
+      "number": 70,
+      "arabicText": "لَوْ نَشَآءُ جَعَلْنَـٰهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ",
+      "englishText": "If We willed, We could make it bitter, so why are you not grateful?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056070.mp3"
+    },
+    {
+      "number": 71,
+      "arabicText": "أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ",
+      "englishText": "And have you seen the fire that you ignite?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056071.mp3"
+    },
+    {
+      "number": 72,
+      "arabicText": "ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+      "englishText": "Is it you who produced its tree, or are We the producer?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056072.mp3"
+    },
+    {
+      "number": 73,
+      "arabicText": "نَحْنُ جَعَلْنَـٰهَا تَذْكِرَةً وَمَتَـٰعًا لِّلْمُقْوِينَ",
+      "englishText": "We have made it a reminder[1616] and provision for the travelers,[1617]",
+      "footnotes": "[1616] Of the great fire of Hell.\n[1617] In the form of flints or other means by which to ignite fire. Travelers are mentioned because of the special convenience to them, although it is a provision for all people in general.",
+      "audioUrl": "Alafasy/mp3/056073.mp3"
+    },
+    {
+      "number": 74,
+      "arabicText": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "englishText": "So exalt the name of your Lord, the Most Great.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056074.mp3"
+    },
+    {
+      "number": 75,
+      "arabicText": "۞ فَلَآ أُقْسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+      "englishText": "Then I swear by the setting of the stars,[1618]",
+      "footnotes": "[1618] Allāh (subḥānahu wa taʿālā) confirms absolutely by oath.",
+      "audioUrl": "Alafasy/mp3/056075.mp3"
+    },
+    {
+      "number": 76,
+      "arabicText": "وَإِنَّهُۥ لَقَسَمٌ لَّوْ تَعْلَمُونَ عَظِيمٌ",
+      "englishText": "And indeed, it is an oath - if you could know - [most] great.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056076.mp3"
+    },
+    {
+      "number": 77,
+      "arabicText": "إِنَّهُۥ لَقُرْءَانٌ كَرِيمٌ",
+      "englishText": "Indeed, it is a noble Qur’ān.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056077.mp3"
+    },
+    {
+      "number": 78,
+      "arabicText": "فِى كِتَـٰبٍ مَّكْنُونٍ",
+      "englishText": "In a Register well-protected;[1619].",
+      "footnotes": "[1619] The Preserved Slate (al-Lawḥ al-Maḥfūẓ), which is with Allāh (subḥānahu wa taʿālā).",
+      "audioUrl": "Alafasy/mp3/056078.mp3"
+    },
+    {
+      "number": 79,
+      "arabicText": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلْمُطَهَّرُونَ",
+      "englishText": "None touch it except the purified [i.e., the angels].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056079.mp3"
+    },
+    {
+      "number": 80,
+      "arabicText": "تَنزِيلٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+      "englishText": "[It is] a revelation from the Lord of the worlds.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056080.mp3"
+    },
+    {
+      "number": 81,
+      "arabicText": "أَفَبِهَـٰذَا ٱلْحَدِيثِ أَنتُم مُّدْهِنُونَ",
+      "englishText": "Then is it to this statement that you are indifferent",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056081.mp3"
+    },
+    {
+      "number": 82,
+      "arabicText": "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ",
+      "englishText": "And make [the thanks for] your provision that you deny [the Provider]?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056082.mp3"
+    },
+    {
+      "number": 83,
+      "arabicText": "فَلَوْلَآ إِذَا بَلَغَتِ ٱلْحُلْقُومَ",
+      "englishText": "Then why, when it [i.e., the soul at death] reaches the throat",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056083.mp3"
+    },
+    {
+      "number": 84,
+      "arabicText": "وَأَنتُمْ حِينَئِذٍ تَنظُرُونَ",
+      "englishText": "And you are at that time looking on -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056084.mp3"
+    },
+    {
+      "number": 85,
+      "arabicText": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَـٰكِن لَّا تُبْصِرُونَ",
+      "englishText": "And We [i.e., Our angels] are nearer to him than you, but you do not see -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056085.mp3"
+    },
+    {
+      "number": 86,
+      "arabicText": "فَلَوْلَآ إِن كُنتُمْ غَيْرَ مَدِينِينَ",
+      "englishText": "Then why do you not, if you are not to be recompensed,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056086.mp3"
+    },
+    {
+      "number": 87,
+      "arabicText": "تَرْجِعُونَهَآ إِن كُنتُمْ صَـٰدِقِينَ",
+      "englishText": "Bring it back,[1620] if you should be truthful?",
+      "footnotes": "[1620] i.e., return the soul to the body, meaning that just as you cannot prevent death when it is decreed, you will not escape the recompense when it is decreed.",
+      "audioUrl": "Alafasy/mp3/056087.mp3"
+    },
+    {
+      "number": 88,
+      "arabicText": "فَأَمَّآ إِن كَانَ مِنَ ٱلْمُقَرَّبِينَ",
+      "englishText": "And if he [i.e., the deceased] was of those brought near [to Allāh],",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056088.mp3"
+    },
+    {
+      "number": 89,
+      "arabicText": "فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ",
+      "englishText": "Then [for him is] rest and bounty and a garden of pleasure.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056089.mp3"
+    },
+    {
+      "number": 90,
+      "arabicText": "وَأَمَّآ إِن كَانَ مِنْ أَصْحَـٰبِ ٱلْيَمِينِ",
+      "englishText": "And if he was of the companions of the right,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056090.mp3"
+    },
+    {
+      "number": 91,
+      "arabicText": "فَسَلَـٰمٌ لَّكَ مِنْ أَصْحَـٰبِ ٱلْيَمِينِ",
+      "englishText": "Then [the angels will say], \"Peace for you; [you are] from the companions of the right.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056091.mp3"
+    },
+    {
+      "number": 92,
+      "arabicText": "وَأَمَّآ إِن كَانَ مِنَ ٱلْمُكَذِّبِينَ ٱلضَّآلِّينَ",
+      "englishText": "But if he was of the deniers [who were] astray,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056092.mp3"
+    },
+    {
+      "number": 93,
+      "arabicText": "فَنُزُلٌ مِّنْ حَمِيمٍ",
+      "englishText": "Then [for him is] accommodation of scalding water",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056093.mp3"
+    },
+    {
+      "number": 94,
+      "arabicText": "وَتَصْلِيَةُ جَحِيمٍ",
+      "englishText": "And burning in Hellfire.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056094.mp3"
+    },
+    {
+      "number": 95,
+      "arabicText": "إِنَّ هَـٰذَا لَهُوَ حَقُّ ٱلْيَقِينِ",
+      "englishText": "Indeed, this is the true certainty,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056095.mp3"
+    },
+    {
+      "number": 96,
+      "arabicText": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "englishText": "So exalt the name of your Lord, the Most Great.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/056096.mp3"
+    }
+  ]
+}

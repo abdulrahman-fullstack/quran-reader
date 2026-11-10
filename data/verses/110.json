@@ -1,0 +1,32 @@
+{
+  "chapterId": 110,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+      "englishText": "When the victory of Allāh has come and the conquest,[2005]",
+      "footnotes": "[2005] The conquest of Makkah.",
+      "audioUrl": "Alafasy/mp3/110001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+      "englishText": "And you see the people entering into the religion of Allāh in multitudes,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/110002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+      "englishText": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of Repentance.[2006]",
+      "footnotes": "[2006] Refer to footnote of 2:37.",
+      "audioUrl": "Alafasy/mp3/110003.mp3"
+    }
+  ]
+}

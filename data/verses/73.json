@@ -1,0 +1,151 @@
+{
+  "chapterId": 73,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " يَـٰٓأَيُّهَا ٱلْمُزَّمِّلُ",
+      "englishText": "O you who wraps himself [in clothing],[1778]",
+      "footnotes": "[1778] Allāh (subḥānahu wa taʿālā) addresses the Prophet (ﷺ), who was asleep, wrapped in his garments.",
+      "audioUrl": "Alafasy/mp3/073001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "قُمِ ٱلَّيْلَ إِلَّا قَلِيلًا",
+      "englishText": "Arise [to pray] the night, except for a little -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/073002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "نِّصْفَهُۥٓ أَوِ ٱنقُصْ مِنْهُ قَلِيلًا",
+      "englishText": "Half of it - or subtract from it a little",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/073003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ ٱلْقُرْءَانَ تَرْتِيلًا",
+      "englishText": "Or add to it, and recite the Qur’ān with measured recitation.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/073004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "إِنَّا سَنُلْقِى عَلَيْكَ قَوْلًا ثَقِيلًا",
+      "englishText": "Indeed, We will cast upon you a heavy word.[1779]",
+      "footnotes": "[1779] i.e., the revelation, which when descending on the Prophet (ﷺ) bore down upon him with a great weight. Another meaning is \"important ordinances.\"",
+      "audioUrl": "Alafasy/mp3/073005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "إِنَّ نَاشِئَةَ ٱلَّيْلِ هِىَ أَشَدُّ وَطْـًٔا وَأَقْوَمُ قِيلًا",
+      "englishText": "Indeed, the hours of the night are more effective for concurrence [of heart and tongue][1780] and more suitable for words.[1781]",
+      "footnotes": "[1780] Another accepted interpretation of the same words is \"Indeed, arising at night is more difficult...,\" meaning that it will only be done by sincere believers and not others.\n[1781] i.e., for recitation of the Qur’ān and for hearing and understanding it.",
+      "audioUrl": "Alafasy/mp3/073006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "إِنَّ لَكَ فِى ٱلنَّهَارِ سَبْحًا طَوِيلًا",
+      "englishText": "Indeed, for you by day is prolonged occupation.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/073007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "وَٱذْكُرِ ٱسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
+      "englishText": "And remember the name of your Lord and devote yourself to Him with [complete] devotion.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/073008.mp3"
+    },
+    {
+      "number": 9,
+      "arabicText": "رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ إِلَـٰهَ إِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًا",
+      "englishText": "[He is] the Lord of the East and the West; there is no deity except Him, so take Him as Disposer of [your] affairs.[1782]",
+      "footnotes": "[1782] i.e., trust in Allāh and rely upon Him.",
+      "audioUrl": "Alafasy/mp3/073009.mp3"
+    },
+    {
+      "number": 10,
+      "arabicText": "وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًا جَمِيلًا",
+      "englishText": "And be patient over what they say and avoid them with gracious avoidance.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/073010.mp3"
+    },
+    {
+      "number": 11,
+      "arabicText": "وَذَرْنِى وَٱلْمُكَذِّبِينَ أُو۟لِى ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
+      "englishText": "And leave Me with [the matter of] the deniers, those of ease [in life], and allow them respite a little.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/073011.mp3"
+    },
+    {
+      "number": 12,
+      "arabicText": "إِنَّ لَدَيْنَآ أَنكَالًا وَجَحِيمًا",
+      "englishText": "Indeed, with Us [for them] are shackles and burning fire",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/073012.mp3"
+    },
+    {
+      "number": 13,
+      "arabicText": "وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا",
+      "englishText": "And food that chokes and a painful punishment -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/073013.mp3"
+    },
+    {
+      "number": 14,
+      "arabicText": "يَوْمَ تَرْجُفُ ٱلْأَرْضُ وَٱلْجِبَالُ وَكَانَتِ ٱلْجِبَالُ كَثِيبًا مَّهِيلًا",
+      "englishText": "On the Day the earth and the mountains will convulse and the mountains will become a heap of sand pouring down.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/073014.mp3"
+    },
+    {
+      "number": 15,
+      "arabicText": "إِنَّآ أَرْسَلْنَآ إِلَيْكُمْ رَسُولًا شَـٰهِدًا عَلَيْكُمْ كَمَآ أَرْسَلْنَآ إِلَىٰ فِرْعَوْنَ رَسُولًا",
+      "englishText": "Indeed, We have sent to you a Messenger as a witness upon you just as We sent to Pharaoh a messenger.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/073015.mp3"
+    },
+    {
+      "number": 16,
+      "arabicText": "فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَـٰهُ أَخْذًا وَبِيلًا",
+      "englishText": "But Pharaoh disobeyed the messenger, so We seized him with a ruinous seizure.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/073016.mp3"
+    },
+    {
+      "number": 17,
+      "arabicText": "فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًا يَجْعَلُ ٱلْوِلْدَٰنَ شِيبًا",
+      "englishText": "Then how can you fear, if you disbelieve, a Day that will make the children white-haired?[1783]",
+      "footnotes": "[1783] Another meaning is \"How can you avoid [punishment]\" on such a Day?",
+      "audioUrl": "Alafasy/mp3/073017.mp3"
+    },
+    {
+      "number": 18,
+      "arabicText": "ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا",
+      "englishText": "The heaven will break apart therefrom;[1784] ever is His promise fulfilled.",
+      "footnotes": "[1784] From the terror of that Day.",
+      "audioUrl": "Alafasy/mp3/073018.mp3"
+    },
+    {
+      "number": 19,
+      "arabicText": "إِنَّ هَـٰذِهِۦ تَذْكِرَةٌ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا",
+      "englishText": "Indeed, this is a reminder, so whoever wills may take to his Lord a way.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/073019.mp3"
+    },
+    {
+      "number": 20,
+      "arabicText": "۞ إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ ۚ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ ۚ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ ۚ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ ۙ وَءَاخَرُونَ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+      "englishText": "Indeed, your Lord knows, [O Muḥammad], that you stand [in prayer] almost two thirds of the night or half of it or a third of it, and [so do] a group of those with you. And Allāh determines [the extent of] the night and the day. He has known that you [Muslims] will not be able to do it[1785] and has turned to you in forgiveness, so recite what is easy [for you] of the Qur’ān. He has known that there will be among you those who are ill and others traveling throughout the land seeking [something] of the bounty of Allāh and others fighting for the cause of Allāh. So recite what is easy from it and establish prayer and give zakāh and loan Allāh a goodly loan.[1786] And whatever good you put forward for yourselves - you will find it with Allāh. It is better and greater in reward. And seek forgiveness of Allāh. Indeed, Allāh is Forgiving and Merciful.",
+      "footnotes": "[1785] Allāh has known that if they were to continue in such long periods of worship each night, the people would be caused much hardship.\n[1786] In the form of charities and contributions to His cause.",
+      "audioUrl": "Alafasy/mp3/073020.mp3"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "chapterId": 100,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
+      "englishText": "By the racers, panting,[1967]",
+      "footnotes": "[1967] i.e., the horses bearing riders as they race to attack the enemy.",
+      "audioUrl": "Alafasy/mp3/100001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "فَٱلْمُورِيَـٰتِ قَدْحًا",
+      "englishText": "And the producers of sparks [when] striking[1968]",
+      "footnotes": "[1968] Their hoofs while galloping over rocky terrain.",
+      "audioUrl": "Alafasy/mp3/100002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+      "englishText": "And the chargers at dawn,[1969]",
+      "footnotes": "[1969] While the enemy is unaware.",
+      "audioUrl": "Alafasy/mp3/100003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+      "englishText": "Stirring up thereby [clouds of] dust,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/100004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+      "englishText": "Arriving thereby in the center[1970] collectively,",
+      "footnotes": "[1970] i.e., penetrating into the enemy ranks during a surprise attack.",
+      "audioUrl": "Alafasy/mp3/100005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+      "englishText": "Indeed mankind, to his Lord, is ungrateful.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/100006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "englishText": "And indeed, he is to that a witness.[1971]",
+      "footnotes": "[1971] Through his speech and his actions.",
+      "audioUrl": "Alafasy/mp3/100007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "englishText": "And indeed he is, in love of wealth, intense.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/100008.mp3"
+    },
+    {
+      "number": 9,
+      "arabicText": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "englishText": "But does he not know that when the contents of the graves are scattered",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/100009.mp3"
+    },
+    {
+      "number": 10,
+      "arabicText": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+      "englishText": "And that within the breasts is obtained,[1972]",
+      "footnotes": "[1972] i.e., when all secrets are made known.",
+      "audioUrl": "Alafasy/mp3/100010.mp3"
+    },
+    {
+      "number": 11,
+      "arabicText": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+      "englishText": "Indeed, their Lord with them, that Day, is [fully] Aware.[1973]",
+      "footnotes": "[1973] Fully acquainted and familiar with everything about each one of them.",
+      "audioUrl": "Alafasy/mp3/100011.mp3"
+    }
+  ]
+}

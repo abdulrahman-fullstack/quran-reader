@@ -1,0 +1,361 @@
+{
+  "chapterId": 77,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " وَٱلْمُرْسَلَـٰتِ عُرْفًا",
+      "englishText": "By those [winds] sent forth in gusts",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "فَٱلْعَـٰصِفَـٰتِ عَصْفًا",
+      "englishText": "And the winds that blow violently",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "وَٱلنَّـٰشِرَٰتِ نَشْرًا",
+      "englishText": "And [by] the winds that spread [clouds]",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "فَٱلْفَـٰرِقَـٰتِ فَرْقًا",
+      "englishText": "And those [angels] who bring criterion[1816]",
+      "footnotes": "[1816] To Allāh's human messengers.",
+      "audioUrl": "Alafasy/mp3/077004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "فَٱلْمُلْقِيَـٰتِ ذِكْرًا",
+      "englishText": "And those [angels] who deliver a message",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "عُذْرًا أَوْ نُذْرًا",
+      "englishText": "As justification or warning,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
+      "englishText": "Indeed, what you are promised is to occur.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+      "englishText": "So when the stars are obliterated",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077008.mp3"
+    },
+    {
+      "number": 9,
+      "arabicText": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+      "englishText": "And when the heaven is opened",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077009.mp3"
+    },
+    {
+      "number": 10,
+      "arabicText": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+      "englishText": "And when the mountains are blown away",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077010.mp3"
+    },
+    {
+      "number": 11,
+      "arabicText": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
+      "englishText": "And when the messengers' time has come...[1817]",
+      "footnotes": "[1817] i.e., when they are gathered to witness concerning their nations. The sentence's conclusion is understood to be \"...the promised judgement will then take place.\"",
+      "audioUrl": "Alafasy/mp3/077011.mp3"
+    },
+    {
+      "number": 12,
+      "arabicText": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+      "englishText": "For what Day was it postponed?[1818]",
+      "footnotes": "[1818] \"It\" may refer to either the aforementioned occurrences collectively or to the testimony of the messengers.",
+      "audioUrl": "Alafasy/mp3/077012.mp3"
+    },
+    {
+      "number": 13,
+      "arabicText": "لِيَوْمِ ٱلْفَصْلِ",
+      "englishText": "For the Day of Judgement.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077013.mp3"
+    },
+    {
+      "number": 14,
+      "arabicText": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+      "englishText": "And what can make you know what is the Day of Judgement?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077014.mp3"
+    },
+    {
+      "number": 15,
+      "arabicText": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "englishText": "Woe,[1819] that Day, to the deniers.",
+      "footnotes": "[1819] i.e., death and destruction.",
+      "audioUrl": "Alafasy/mp3/077015.mp3"
+    },
+    {
+      "number": 16,
+      "arabicText": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+      "englishText": "Did We not destroy the former peoples?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077016.mp3"
+    },
+    {
+      "number": 17,
+      "arabicText": "ثُمَّ نُتْبِعُهُمُ ٱلْـَٔاخِرِينَ",
+      "englishText": "Then We will follow them with the later ones.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077017.mp3"
+    },
+    {
+      "number": 18,
+      "arabicText": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "englishText": "Thus do We deal with the criminals.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077018.mp3"
+    },
+    {
+      "number": 19,
+      "arabicText": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "englishText": "Woe, that Day, to the deniers.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077019.mp3"
+    },
+    {
+      "number": 20,
+      "arabicText": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ",
+      "englishText": "Did We not create you from a liquid disdained?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077020.mp3"
+    },
+    {
+      "number": 21,
+      "arabicText": "فَجَعَلْنَـٰهُ فِى قَرَارٍ مَّكِينٍ",
+      "englishText": "And We placed it in a firm lodging [i.e., the womb]",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077021.mp3"
+    },
+    {
+      "number": 22,
+      "arabicText": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+      "englishText": "For a known extent.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077022.mp3"
+    },
+    {
+      "number": 23,
+      "arabicText": "فَقَدَرْنَا فَنِعْمَ ٱلْقَـٰدِرُونَ",
+      "englishText": "And We determined [it], and excellent [are We] to determine.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077023.mp3"
+    },
+    {
+      "number": 24,
+      "arabicText": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "englishText": "Woe, that Day, to the deniers.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077024.mp3"
+    },
+    {
+      "number": 25,
+      "arabicText": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+      "englishText": "Have We not made the earth a container",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077025.mp3"
+    },
+    {
+      "number": 26,
+      "arabicText": "أَحْيَآءً وَأَمْوَٰتًا",
+      "englishText": "Of the living and the dead?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077026.mp3"
+    },
+    {
+      "number": 27,
+      "arabicText": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَـٰمِخَـٰتٍ وَأَسْقَيْنَـٰكُم مَّآءً فُرَاتًا",
+      "englishText": "And We placed therein lofty, firmly set mountains and have given you to drink sweet water.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077027.mp3"
+    },
+    {
+      "number": 28,
+      "arabicText": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "englishText": "Woe, that Day, to the deniers.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077028.mp3"
+    },
+    {
+      "number": 29,
+      "arabicText": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "englishText": "[They will be told], \"Proceed to that which you used to deny.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077029.mp3"
+    },
+    {
+      "number": 30,
+      "arabicText": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّ ذِى ثَلَـٰثِ شُعَبٍ",
+      "englishText": "Proceed to a shadow [of smoke] having three columns",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077030.mp3"
+    },
+    {
+      "number": 31,
+      "arabicText": "لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+      "englishText": "[But having] no cool shade and availing not against the flame.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077031.mp3"
+    },
+    {
+      "number": 32,
+      "arabicText": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+      "englishText": "Indeed, it throws sparks [as huge] as a fortress,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077032.mp3"
+    },
+    {
+      "number": 33,
+      "arabicText": "كَأَنَّهُۥ جِمَـٰلَتٌ صُفْرٌ",
+      "englishText": "As if they were yellowish [black] camels.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077033.mp3"
+    },
+    {
+      "number": 34,
+      "arabicText": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "englishText": "Woe, that Day, to the deniers.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077034.mp3"
+    },
+    {
+      "number": 35,
+      "arabicText": "هَـٰذَا يَوْمُ لَا يَنطِقُونَ",
+      "englishText": "This is a Day they will not speak,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077035.mp3"
+    },
+    {
+      "number": 36,
+      "arabicText": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+      "englishText": "Nor will it be permitted for them to make an excuse.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077036.mp3"
+    },
+    {
+      "number": 37,
+      "arabicText": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "englishText": "Woe, that Day, to the deniers.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077037.mp3"
+    },
+    {
+      "number": 38,
+      "arabicText": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَـٰكُمْ وَٱلْأَوَّلِينَ",
+      "englishText": "This is the Day of Judgement; We will have assembled you and the former peoples.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077038.mp3"
+    },
+    {
+      "number": 39,
+      "arabicText": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+      "englishText": "So if you have a plan, then plan against Me.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077039.mp3"
+    },
+    {
+      "number": 40,
+      "arabicText": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "englishText": "Woe, that Day, to the deniers.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077040.mp3"
+    },
+    {
+      "number": 41,
+      "arabicText": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَـٰلٍ وَعُيُونٍ",
+      "englishText": "Indeed, the righteous will be among shades and springs",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077041.mp3"
+    },
+    {
+      "number": 42,
+      "arabicText": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+      "englishText": "And fruits from whatever they desire,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077042.mp3"
+    },
+    {
+      "number": 43,
+      "arabicText": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+      "englishText": "[Being told], \"Eat and drink in satisfaction for what you used to do.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077043.mp3"
+    },
+    {
+      "number": 44,
+      "arabicText": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "englishText": "Indeed, We thus reward the doers of good.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077044.mp3"
+    },
+    {
+      "number": 45,
+      "arabicText": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "englishText": "Woe, that Day, to the deniers.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077045.mp3"
+    },
+    {
+      "number": 46,
+      "arabicText": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+      "englishText": "[O disbelievers], eat and enjoy yourselves a little; indeed, you are criminals.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077046.mp3"
+    },
+    {
+      "number": 47,
+      "arabicText": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "englishText": "Woe, that Day, to the deniers.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077047.mp3"
+    },
+    {
+      "number": 48,
+      "arabicText": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+      "englishText": "And when it is said to them, \"Bow [in prayer],\" they do not bow.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077048.mp3"
+    },
+    {
+      "number": 49,
+      "arabicText": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "englishText": "Woe, that Day, to the deniers.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077049.mp3"
+    },
+    {
+      "number": 50,
+      "arabicText": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+      "englishText": "Then in what statement after it [i.e., the Qur’ān] will they believe?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/077050.mp3"
+    }
+  ]
+}

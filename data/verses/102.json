@@ -1,0 +1,67 @@
+{
+  "chapterId": 102,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "englishText": "Competition in [worldly] increase diverts you",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/102001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+      "englishText": "Until you visit the graveyards.[1980]",
+      "footnotes": "[1980] i.e., remain in them temporarily, meaning until the Day of Resurrection.",
+      "audioUrl": "Alafasy/mp3/102002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "englishText": "No! You are going to know.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/102003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "englishText": "Then, no! You are going to know.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/102004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+      "englishText": "No! If you only knew with knowledge of certainty...[1981]",
+      "footnotes": "[1981] The conclusion of this verse is estimated to be \"...you would not have been distracted from preparing for the Hereafter.\"",
+      "audioUrl": "Alafasy/mp3/102005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+      "englishText": "You will surely see the Hellfire.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/102006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+      "englishText": "Then you will surely see it with the eye of certainty.[1982]",
+      "footnotes": "[1982] i.e., with actual eyesight.",
+      "audioUrl": "Alafasy/mp3/102007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "englishText": "Then you will surely be asked that Day about pleasure.[1983]",
+      "footnotes": "[1983] i.e., the comforts of worldly life and whether you were grateful to Allāh for His blessings.",
+      "audioUrl": "Alafasy/mp3/102008.mp3"
+    }
+  ]
+}

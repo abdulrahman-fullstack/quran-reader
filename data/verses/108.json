@@ -1,0 +1,32 @@
+{
+  "chapterId": 108,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+      "englishText": "Indeed, We have granted you, [O Muḥammad], al-Kawthar.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/108001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "englishText": "So pray to your Lord and offer sacrifice [to Him alone].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/108002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "englishText": "Indeed, your enemy is the one cut off.[2002]",
+      "footnotes": "[2002] From all good in this world and the Hereafter.",
+      "audioUrl": "Alafasy/mp3/108003.mp3"
+    }
+  ]
+}

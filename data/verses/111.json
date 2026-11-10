@@ -1,0 +1,46 @@
+{
+  "chapterId": 111,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+      "englishText": "May the hands of Abū Lahab be ruined, and ruined is he.[2008]",
+      "footnotes": "[2008] Abū Lahab (the Prophet's uncle) , who was an enemy of Islām.",
+      "audioUrl": "Alafasy/mp3/111001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "englishText": "His wealth will not avail him or that which he gained.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/111002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "englishText": "He will [enter to] burn in a Fire of [blazing] flame",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/111003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "englishText": "And his wife [as well] - the carrier of firewood.[2009]",
+      "footnotes": "[2009] She used to put thorns in the Prophet's path and slander him (ﷺ) . The word \"firewood\" was used by the Arabs to allude to slander and backbiting.",
+      "audioUrl": "Alafasy/mp3/111004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+      "englishText": "Around her neck is a rope of [twisted] fiber.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/111005.mp3"
+    }
+  ]
+}

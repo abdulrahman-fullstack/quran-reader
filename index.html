@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f6f5ef">
+    <meta name="description" content="A quiet, local-first Quran reader with Arabic text, English translation, and verse audio.">
+    <title>Quran Reader</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" id="chapter-sidebar" aria-label="Chapter navigation">
+        <a class="brand" href="#" aria-label="Quran Reader home">
+          <span class="brand-mark" aria-hidden="true">ق</span>
+          <span><strong>Quran</strong><small>READING ROOM</small></span>
+        </a>
+
+        <div class="sidebar-heading">
+          <span>THE QURAN</span>
+          <span class="chapter-total" id="chapter-total">114 chapters</span>
+        </div>
+        <label class="search-box">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m16 16 4 4"></path></svg>
+          <input id="chapter-search" type="search" placeholder="Find a chapter" autocomplete="off" aria-label="Find a chapter">
+          <kbd>/</kbd>
+        </label>
+        <nav class="chapter-nav" id="chapter-list" aria-label="Chapters">
+          <div class="list-loading" aria-live="polite">Loading chapter index…</div>
+        </nav>
+        <div class="sidebar-foot"><span class="status-dot"></span> Reading from your local library</div>
+      </aside>
+
+      <main class="main-area">
+        <header class="topbar">
+          <button class="icon-button menu-button" id="menu-toggle" type="button" aria-label="Open chapter list" aria-controls="chapter-sidebar" aria-expanded="false">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"></path></svg>
+          </button>
+          <div class="breadcrumbs"><span>Library</span><span class="crumb-slash">/</span><strong id="breadcrumb-chapter">Al-Fatihah</strong></div>
+          <a class="source-link" href="https://onlinetntj.com/the-holy-quran/" target="_blank" rel="noreferrer">TNTJ Tamil translation source <span aria-hidden="true">↗</span></a>
+        </header>
+
+        <div class="audio-toast" id="audio-toast" role="status" aria-live="polite" hidden>
+          <span class="audio-live-indicator" aria-hidden="true"></span>
+          <div class="audio-toast-copy">
+            <strong id="audio-status">Now playing</strong>
+            <span id="audio-track"></span>
+          </div>
+          <button class="audio-control" id="audio-toggle" type="button" aria-label="Pause recitation" title="Pause or resume">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path class="play-icon" d="M8 5.8c0-.7.8-1.1 1.4-.7l9.1 6a1.1 1.1 0 0 1 0 1.8l-9.1 6c-.6.4-1.4 0-1.4-.7z"></path>
+              <path class="pause-icon" d="M8 6v12M16 6v12"></path>
+            </svg>
+          </button>
+          <button class="audio-control" id="audio-stop" type="button" aria-label="Stop recitation" title="Stop recitation">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6.5" y="6.5" width="11" height="11" rx="1"></rect></svg>
+          </button>
+        </div>
+
+        <section class="reader" aria-labelledby="chapter-title">
+          <div class="chapter-intro">
+            <div class="chapter-copy">
+              <p class="eyebrow" id="chapter-kicker">SURAH 001</p>
+              <h1 id="chapter-title">Al-Fatihah</h1>
+              <p class="chapter-subtitle" id="chapter-meaning">The Opening</p>
+            </div>
+            <div class="chapter-arabic-title" lang="ar" dir="rtl" id="chapter-arabic-name">الْفَاتِحَة</div>
+            <div class="chapter-summary">
+              <span><strong id="verse-count">7</strong> verses</span>
+            </div>
+          </div>
+
+          <div class="reader-toolbar">
+            <div class="translation-label"><span class="translation-dot"></span> ARABIC <span class="toolbar-divider">·</span> ENGLISH</div>
+            <div class="toolbar-actions">
+              <button class="icon-button" id="text-smaller" type="button" aria-label="Decrease Arabic text size" title="Decrease text size">A−</button>
+              <button class="icon-button" id="text-larger" type="button" aria-label="Increase Arabic text size" title="Increase text size">A+</button>
+            </div>
+          </div>
+
+          <div class="verses" id="verses" aria-live="polite">
+            <div class="verse-loading"><span></span><span></span><span></span></div>
+          </div>
+
+          <footer class="reader-footer">
+            <button class="chapter-step" id="previous-chapter" type="button" aria-label="Previous chapter">
+              <span aria-hidden="true">←</span><span><small>PREVIOUS</small><strong>—</strong></span>
+            </button>
+            <span class="footer-note">English · <a href="https://quranenc.com/en/home/api" target="_blank" rel="noreferrer">QuranEnc.com · English Translation - Noor International Center</a> · v<span id="translation-version">1.1.2</span><br>Recitation · Mishari al-Afasy</span>
+            <button class="chapter-step next-step" id="next-chapter" type="button" aria-label="Next chapter">
+              <span><small>NEXT</small><strong>—</strong></span><span aria-hidden="true">→</span>
+            </button>
+          </footer>
+        </section>
+      </main>
+    </div>
+    <div class="sidebar-scrim" id="sidebar-scrim" hidden></div>
+    <audio id="verse-audio" preload="none"></audio>
+  </body>
+</html>

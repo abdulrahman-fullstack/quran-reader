@@ -1,0 +1,305 @@
+{
+  "chapterId": 80,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " عَبَسَ وَتَوَلَّىٰٓ",
+      "englishText": "He [i.e., the Prophet (ﷺ) ] frowned and turned away",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+      "englishText": "Because there came to him the blind man,[1853] [interrupting].",
+      "footnotes": "[1853] ʿAbdullāh, the son of Umm Maktūm.",
+      "audioUrl": "Alafasy/mp3/080002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+      "englishText": "But what would make you perceive, [O Muḥammad], that perhaps he might be purified[1854]",
+      "footnotes": "[1854] As a result of what he learns from you.",
+      "audioUrl": "Alafasy/mp3/080003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ",
+      "englishText": "Or be reminded and the remembrance would benefit him?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "أَمَّا مَنِ ٱسْتَغْنَىٰ",
+      "englishText": "As for he who thinks himself without need,[1855]",
+      "footnotes": "[1855] i.e., without need of faith or need of Allāh (subḥānahu wa taʿālā) . Here it is in reference to a certain influential member of the Quraysh whom the Prophet (ﷺ) had hoped to bring to Islām.",
+      "audioUrl": "Alafasy/mp3/080005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "فَأَنتَ لَهُۥ تَصَدَّىٰ",
+      "englishText": "To him you give attention.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+      "englishText": "And not upon you [is any blame] if he will not be purified.[1856]",
+      "footnotes": "[1856] The Prophet (ﷺ) was responsible only for conveying the message, not for ultimate guidance.",
+      "audioUrl": "Alafasy/mp3/080007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "وَأَمَّا مَن جَآءَكَ يَسْعَىٰ",
+      "englishText": "But as for he who came to you striving [for knowledge]",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080008.mp3"
+    },
+    {
+      "number": 9,
+      "arabicText": "وَهُوَ يَخْشَىٰ",
+      "englishText": "While he fears [Allāh],",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080009.mp3"
+    },
+    {
+      "number": 10,
+      "arabicText": "فَأَنتَ عَنْهُ تَلَهَّىٰ",
+      "englishText": "From him you are distracted.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080010.mp3"
+    },
+    {
+      "number": 11,
+      "arabicText": "كَلَّآ إِنَّهَا تَذْكِرَةٌ",
+      "englishText": "No! Indeed, they [i.e., these verses] are a reminder;",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080011.mp3"
+    },
+    {
+      "number": 12,
+      "arabicText": "فَمَن شَآءَ ذَكَرَهُۥ",
+      "englishText": "So whoever wills may remember it.[1857]",
+      "footnotes": "[1857] The revelation. Or \"Him,\" i.e., Allāh (subḥānahu wa taʿālā) .",
+      "audioUrl": "Alafasy/mp3/080012.mp3"
+    },
+    {
+      "number": 13,
+      "arabicText": "فِى صُحُفٍ مُّكَرَّمَةٍ",
+      "englishText": "[It is recorded] in honored sheets,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080013.mp3"
+    },
+    {
+      "number": 14,
+      "arabicText": "مَّرْفُوعَةٍ مُّطَهَّرَةٍۭ",
+      "englishText": "Exalted and purified,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080014.mp3"
+    },
+    {
+      "number": 15,
+      "arabicText": "بِأَيْدِى سَفَرَةٍ",
+      "englishText": "[Carried] by the hands of messenger-angels,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080015.mp3"
+    },
+    {
+      "number": 16,
+      "arabicText": "كِرَامٍۭ بَرَرَةٍ",
+      "englishText": "Noble and dutiful.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080016.mp3"
+    },
+    {
+      "number": 17,
+      "arabicText": "قُتِلَ ٱلْإِنسَـٰنُ مَآ أَكْفَرَهُۥ",
+      "englishText": "Destroyed [i.e., cursed] is man;[1858] how disbelieving is he.",
+      "footnotes": "[1858] i.e., those who deny Allāh's message.",
+      "audioUrl": "Alafasy/mp3/080017.mp3"
+    },
+    {
+      "number": 18,
+      "arabicText": "مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ",
+      "englishText": "From what thing [i.e., substance] did He create him?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080018.mp3"
+    },
+    {
+      "number": 19,
+      "arabicText": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+      "englishText": "From a sperm-drop He created him and destined for him;[1859]",
+      "footnotes": "[1859] His proportions, provisions, life span, etc.",
+      "audioUrl": "Alafasy/mp3/080019.mp3"
+    },
+    {
+      "number": 20,
+      "arabicText": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ",
+      "englishText": "Then He eased the way for him;[1860]",
+      "footnotes": "[1860] Into this world (i.e., his birth) . It may also refer to life itself, which has been made easier by Allāh's guidance.",
+      "audioUrl": "Alafasy/mp3/080020.mp3"
+    },
+    {
+      "number": 21,
+      "arabicText": "ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ",
+      "englishText": "Then He causes his death and provides a grave for him.[1861]",
+      "footnotes": "[1861] To conceal his decaying body.",
+      "audioUrl": "Alafasy/mp3/080021.mp3"
+    },
+    {
+      "number": 22,
+      "arabicText": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ",
+      "englishText": "Then when He wills, He will resurrect him.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080022.mp3"
+    },
+    {
+      "number": 23,
+      "arabicText": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ",
+      "englishText": "No! He [i.e., man] has not yet accomplished what He commanded him.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080023.mp3"
+    },
+    {
+      "number": 24,
+      "arabicText": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ إِلَىٰ طَعَامِهِۦٓ",
+      "englishText": "Then let mankind look at his food -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080024.mp3"
+    },
+    {
+      "number": 25,
+      "arabicText": "أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا",
+      "englishText": "How We poured down water in torrents,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080025.mp3"
+    },
+    {
+      "number": 26,
+      "arabicText": "ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّا",
+      "englishText": "Then We broke open the earth, splitting [it with sprouts],",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080026.mp3"
+    },
+    {
+      "number": 27,
+      "arabicText": "فَأَنۢبَتْنَا فِيهَا حَبًّا",
+      "englishText": "And caused to grow within it grain",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080027.mp3"
+    },
+    {
+      "number": 28,
+      "arabicText": "وَعِنَبًا وَقَضْبًا",
+      "englishText": "And grapes and herbage",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080028.mp3"
+    },
+    {
+      "number": 29,
+      "arabicText": "وَزَيْتُونًا وَنَخْلًا",
+      "englishText": "And olive and palm trees",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080029.mp3"
+    },
+    {
+      "number": 30,
+      "arabicText": "وَحَدَآئِقَ غُلْبًا",
+      "englishText": "And gardens of dense shrubbery",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080030.mp3"
+    },
+    {
+      "number": 31,
+      "arabicText": "وَفَـٰكِهَةً وَأَبًّا",
+      "englishText": "And fruit and grass -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080031.mp3"
+    },
+    {
+      "number": 32,
+      "arabicText": "مَّتَـٰعًا لَّكُمْ وَلِأَنْعَـٰمِكُمْ",
+      "englishText": "[As] enjoyment [i.e., provision] for you and your grazing livestock.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080032.mp3"
+    },
+    {
+      "number": 33,
+      "arabicText": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ",
+      "englishText": "But when there comes the Deafening Blast[1862]",
+      "footnotes": "[1862] The piercing blast of the Horn which signals resurrection. Aṣ-Ṣākhkhah is also a name for the Day of Resurrection.",
+      "audioUrl": "Alafasy/mp3/080033.mp3"
+    },
+    {
+      "number": 34,
+      "arabicText": "يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ",
+      "englishText": "On the Day a man will flee from his brother",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080034.mp3"
+    },
+    {
+      "number": 35,
+      "arabicText": "وَأُمِّهِۦ وَأَبِيهِ",
+      "englishText": "And his mother and his father",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080035.mp3"
+    },
+    {
+      "number": 36,
+      "arabicText": "وَصَـٰحِبَتِهِۦ وَبَنِيهِ",
+      "englishText": "And his wife and his children,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080036.mp3"
+    },
+    {
+      "number": 37,
+      "arabicText": "لِكُلِّ ٱمْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+      "englishText": "For every man, that Day, will be a matter adequate for him.[1863]",
+      "footnotes": "[1863] i.e., to occupy him. He will be concerned only with himself, thus forgetting all others.",
+      "audioUrl": "Alafasy/mp3/080037.mp3"
+    },
+    {
+      "number": 38,
+      "arabicText": "وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ",
+      "englishText": "[Some] faces, that Day, will be bright -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080038.mp3"
+    },
+    {
+      "number": 39,
+      "arabicText": "ضَاحِكَةٌ مُّسْتَبْشِرَةٌ",
+      "englishText": "Laughing, rejoicing at good news.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080039.mp3"
+    },
+    {
+      "number": 40,
+      "arabicText": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+      "englishText": "And [other] faces, that Day, will have upon them dust.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080040.mp3"
+    },
+    {
+      "number": 41,
+      "arabicText": "تَرْهَقُهَا قَتَرَةٌ",
+      "englishText": "Blackness will cover them.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080041.mp3"
+    },
+    {
+      "number": 42,
+      "arabicText": "أُو۟لَـٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ",
+      "englishText": "Those are the disbelievers, the wicked ones.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/080042.mp3"
+    }
+  ]
+}

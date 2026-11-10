@@ -1,0 +1,1142 @@
+[
+  {
+    "id": 1,
+    "name": "Al-Fatihah",
+    "arabicName": "الفاتحة",
+    "meaning": "The Opener",
+    "verseCount": 7,
+    "revelation": "makkah",
+    "dataFile": "data/verses/1.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 2,
+    "name": "Al-Baqarah",
+    "arabicName": "البقرة",
+    "meaning": "The Cow",
+    "verseCount": 286,
+    "revelation": "madinah",
+    "dataFile": "data/verses/2.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 3,
+    "name": "Ali 'Imran",
+    "arabicName": "آل عمران",
+    "meaning": "Family of Imran",
+    "verseCount": 200,
+    "revelation": "madinah",
+    "dataFile": "data/verses/3.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 4,
+    "name": "An-Nisa",
+    "arabicName": "النساء",
+    "meaning": "The Women",
+    "verseCount": 176,
+    "revelation": "madinah",
+    "dataFile": "data/verses/4.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 5,
+    "name": "Al-Ma'idah",
+    "arabicName": "المائدة",
+    "meaning": "The Table Spread",
+    "verseCount": 120,
+    "revelation": "madinah",
+    "dataFile": "data/verses/5.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 6,
+    "name": "Al-An'am",
+    "arabicName": "الأنعام",
+    "meaning": "The Cattle",
+    "verseCount": 165,
+    "revelation": "makkah",
+    "dataFile": "data/verses/6.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 7,
+    "name": "Al-A'raf",
+    "arabicName": "الأعراف",
+    "meaning": "The Heights",
+    "verseCount": 206,
+    "revelation": "makkah",
+    "dataFile": "data/verses/7.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 8,
+    "name": "Al-Anfal",
+    "arabicName": "الأنفال",
+    "meaning": "The Spoils of War",
+    "verseCount": 75,
+    "revelation": "madinah",
+    "dataFile": "data/verses/8.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 9,
+    "name": "At-Tawbah",
+    "arabicName": "التوبة",
+    "meaning": "The Repentance",
+    "verseCount": 129,
+    "revelation": "madinah",
+    "dataFile": "data/verses/9.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 10,
+    "name": "Yunus",
+    "arabicName": "يونس",
+    "meaning": "Jonah",
+    "verseCount": 109,
+    "revelation": "makkah",
+    "dataFile": "data/verses/10.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 11,
+    "name": "Hud",
+    "arabicName": "هود",
+    "meaning": "Hud",
+    "verseCount": 123,
+    "revelation": "makkah",
+    "dataFile": "data/verses/11.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 12,
+    "name": "Yusuf",
+    "arabicName": "يوسف",
+    "meaning": "Joseph",
+    "verseCount": 111,
+    "revelation": "makkah",
+    "dataFile": "data/verses/12.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 13,
+    "name": "Ar-Ra'd",
+    "arabicName": "الرعد",
+    "meaning": "The Thunder",
+    "verseCount": 43,
+    "revelation": "madinah",
+    "dataFile": "data/verses/13.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 14,
+    "name": "Ibrahim",
+    "arabicName": "ابراهيم",
+    "meaning": "Abraham",
+    "verseCount": 52,
+    "revelation": "makkah",
+    "dataFile": "data/verses/14.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 15,
+    "name": "Al-Hijr",
+    "arabicName": "الحجر",
+    "meaning": "The Rocky Tract",
+    "verseCount": 99,
+    "revelation": "makkah",
+    "dataFile": "data/verses/15.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 16,
+    "name": "An-Nahl",
+    "arabicName": "النحل",
+    "meaning": "The Bee",
+    "verseCount": 128,
+    "revelation": "makkah",
+    "dataFile": "data/verses/16.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 17,
+    "name": "Al-Isra",
+    "arabicName": "الإسراء",
+    "meaning": "The Night Journey",
+    "verseCount": 111,
+    "revelation": "makkah",
+    "dataFile": "data/verses/17.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 18,
+    "name": "Al-Kahf",
+    "arabicName": "الكهف",
+    "meaning": "The Cave",
+    "verseCount": 110,
+    "revelation": "makkah",
+    "dataFile": "data/verses/18.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 19,
+    "name": "Maryam",
+    "arabicName": "مريم",
+    "meaning": "Mary",
+    "verseCount": 98,
+    "revelation": "makkah",
+    "dataFile": "data/verses/19.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 20,
+    "name": "Taha",
+    "arabicName": "طه",
+    "meaning": "Ta-Ha",
+    "verseCount": 135,
+    "revelation": "makkah",
+    "dataFile": "data/verses/20.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 21,
+    "name": "Al-Anbya",
+    "arabicName": "الأنبياء",
+    "meaning": "The Prophets",
+    "verseCount": 112,
+    "revelation": "makkah",
+    "dataFile": "data/verses/21.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 22,
+    "name": "Al-Hajj",
+    "arabicName": "الحج",
+    "meaning": "The Pilgrimage",
+    "verseCount": 78,
+    "revelation": "madinah",
+    "dataFile": "data/verses/22.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 23,
+    "name": "Al-Mu'minun",
+    "arabicName": "المؤمنون",
+    "meaning": "The Believers",
+    "verseCount": 118,
+    "revelation": "makkah",
+    "dataFile": "data/verses/23.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 24,
+    "name": "An-Nur",
+    "arabicName": "النور",
+    "meaning": "The Light",
+    "verseCount": 64,
+    "revelation": "madinah",
+    "dataFile": "data/verses/24.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 25,
+    "name": "Al-Furqan",
+    "arabicName": "الفرقان",
+    "meaning": "The Criterion",
+    "verseCount": 77,
+    "revelation": "makkah",
+    "dataFile": "data/verses/25.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 26,
+    "name": "Ash-Shu'ara",
+    "arabicName": "الشعراء",
+    "meaning": "The Poets",
+    "verseCount": 227,
+    "revelation": "makkah",
+    "dataFile": "data/verses/26.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 27,
+    "name": "An-Naml",
+    "arabicName": "النمل",
+    "meaning": "The Ant",
+    "verseCount": 93,
+    "revelation": "makkah",
+    "dataFile": "data/verses/27.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 28,
+    "name": "Al-Qasas",
+    "arabicName": "القصص",
+    "meaning": "The Stories",
+    "verseCount": 88,
+    "revelation": "makkah",
+    "dataFile": "data/verses/28.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 29,
+    "name": "Al-'Ankabut",
+    "arabicName": "العنكبوت",
+    "meaning": "The Spider",
+    "verseCount": 69,
+    "revelation": "makkah",
+    "dataFile": "data/verses/29.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 30,
+    "name": "Ar-Rum",
+    "arabicName": "الروم",
+    "meaning": "The Romans",
+    "verseCount": 60,
+    "revelation": "makkah",
+    "dataFile": "data/verses/30.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 31,
+    "name": "Luqman",
+    "arabicName": "لقمان",
+    "meaning": "Luqman",
+    "verseCount": 34,
+    "revelation": "makkah",
+    "dataFile": "data/verses/31.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 32,
+    "name": "As-Sajdah",
+    "arabicName": "السجدة",
+    "meaning": "The Prostration",
+    "verseCount": 30,
+    "revelation": "makkah",
+    "dataFile": "data/verses/32.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 33,
+    "name": "Al-Ahzab",
+    "arabicName": "الأحزاب",
+    "meaning": "The Combined Forces",
+    "verseCount": 73,
+    "revelation": "madinah",
+    "dataFile": "data/verses/33.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 34,
+    "name": "Saba",
+    "arabicName": "سبإ",
+    "meaning": "Sheba",
+    "verseCount": 54,
+    "revelation": "makkah",
+    "dataFile": "data/verses/34.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 35,
+    "name": "Fatir",
+    "arabicName": "فاطر",
+    "meaning": "Originator",
+    "verseCount": 45,
+    "revelation": "makkah",
+    "dataFile": "data/verses/35.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 36,
+    "name": "Ya-Sin",
+    "arabicName": "يس",
+    "meaning": "Ya Sin",
+    "verseCount": 83,
+    "revelation": "makkah",
+    "dataFile": "data/verses/36.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 37,
+    "name": "As-Saffat",
+    "arabicName": "الصافات",
+    "meaning": "Those who set the Ranks",
+    "verseCount": 182,
+    "revelation": "makkah",
+    "dataFile": "data/verses/37.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 38,
+    "name": "Sad",
+    "arabicName": "ص",
+    "meaning": "The Letter \"Saad\"",
+    "verseCount": 88,
+    "revelation": "makkah",
+    "dataFile": "data/verses/38.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 39,
+    "name": "Az-Zumar",
+    "arabicName": "الزمر",
+    "meaning": "The Troops",
+    "verseCount": 75,
+    "revelation": "makkah",
+    "dataFile": "data/verses/39.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 40,
+    "name": "Ghafir",
+    "arabicName": "غافر",
+    "meaning": "The Forgiver",
+    "verseCount": 85,
+    "revelation": "makkah",
+    "dataFile": "data/verses/40.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 41,
+    "name": "Fussilat",
+    "arabicName": "فصلت",
+    "meaning": "Explained in Detail",
+    "verseCount": 54,
+    "revelation": "makkah",
+    "dataFile": "data/verses/41.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 42,
+    "name": "Ash-Shuraa",
+    "arabicName": "الشورى",
+    "meaning": "The Consultation",
+    "verseCount": 53,
+    "revelation": "makkah",
+    "dataFile": "data/verses/42.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 43,
+    "name": "Az-Zukhruf",
+    "arabicName": "الزخرف",
+    "meaning": "The Ornaments of Gold",
+    "verseCount": 89,
+    "revelation": "makkah",
+    "dataFile": "data/verses/43.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 44,
+    "name": "Ad-Dukhan",
+    "arabicName": "الدخان",
+    "meaning": "The Smoke",
+    "verseCount": 59,
+    "revelation": "makkah",
+    "dataFile": "data/verses/44.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 45,
+    "name": "Al-Jathiyah",
+    "arabicName": "الجاثية",
+    "meaning": "The Crouching",
+    "verseCount": 37,
+    "revelation": "makkah",
+    "dataFile": "data/verses/45.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 46,
+    "name": "Al-Ahqaf",
+    "arabicName": "الأحقاف",
+    "meaning": "The Wind-Curved Sandhills",
+    "verseCount": 35,
+    "revelation": "makkah",
+    "dataFile": "data/verses/46.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 47,
+    "name": "Muhammad",
+    "arabicName": "محمد",
+    "meaning": "Muhammad",
+    "verseCount": 38,
+    "revelation": "madinah",
+    "dataFile": "data/verses/47.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 48,
+    "name": "Al-Fath",
+    "arabicName": "الفتح",
+    "meaning": "The Victory",
+    "verseCount": 29,
+    "revelation": "madinah",
+    "dataFile": "data/verses/48.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 49,
+    "name": "Al-Hujurat",
+    "arabicName": "الحجرات",
+    "meaning": "The Rooms",
+    "verseCount": 18,
+    "revelation": "madinah",
+    "dataFile": "data/verses/49.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 50,
+    "name": "Qaf",
+    "arabicName": "ق",
+    "meaning": "The Letter \"Qaf\"",
+    "verseCount": 45,
+    "revelation": "makkah",
+    "dataFile": "data/verses/50.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 51,
+    "name": "Adh-Dhariyat",
+    "arabicName": "الذاريات",
+    "meaning": "The Winnowing Winds",
+    "verseCount": 60,
+    "revelation": "makkah",
+    "dataFile": "data/verses/51.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 52,
+    "name": "At-Tur",
+    "arabicName": "الطور",
+    "meaning": "The Mount",
+    "verseCount": 49,
+    "revelation": "makkah",
+    "dataFile": "data/verses/52.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 53,
+    "name": "An-Najm",
+    "arabicName": "النجم",
+    "meaning": "The Star",
+    "verseCount": 62,
+    "revelation": "makkah",
+    "dataFile": "data/verses/53.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 54,
+    "name": "Al-Qamar",
+    "arabicName": "القمر",
+    "meaning": "The Moon",
+    "verseCount": 55,
+    "revelation": "makkah",
+    "dataFile": "data/verses/54.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 55,
+    "name": "Ar-Rahman",
+    "arabicName": "الرحمن",
+    "meaning": "The Beneficent",
+    "verseCount": 78,
+    "revelation": "madinah",
+    "dataFile": "data/verses/55.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 56,
+    "name": "Al-Waqi'ah",
+    "arabicName": "الواقعة",
+    "meaning": "The Inevitable",
+    "verseCount": 96,
+    "revelation": "makkah",
+    "dataFile": "data/verses/56.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 57,
+    "name": "Al-Hadid",
+    "arabicName": "الحديد",
+    "meaning": "The Iron",
+    "verseCount": 29,
+    "revelation": "madinah",
+    "dataFile": "data/verses/57.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 58,
+    "name": "Al-Mujadila",
+    "arabicName": "المجادلة",
+    "meaning": "The Pleading Woman",
+    "verseCount": 22,
+    "revelation": "madinah",
+    "dataFile": "data/verses/58.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 59,
+    "name": "Al-Hashr",
+    "arabicName": "الحشر",
+    "meaning": "The Exile",
+    "verseCount": 24,
+    "revelation": "madinah",
+    "dataFile": "data/verses/59.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 60,
+    "name": "Al-Mumtahanah",
+    "arabicName": "الممتحنة",
+    "meaning": "She that is to be examined",
+    "verseCount": 13,
+    "revelation": "madinah",
+    "dataFile": "data/verses/60.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 61,
+    "name": "As-Saf",
+    "arabicName": "الصف",
+    "meaning": "The Ranks",
+    "verseCount": 14,
+    "revelation": "madinah",
+    "dataFile": "data/verses/61.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 62,
+    "name": "Al-Jumu'ah",
+    "arabicName": "الجمعة",
+    "meaning": "The Congregation, Friday",
+    "verseCount": 11,
+    "revelation": "madinah",
+    "dataFile": "data/verses/62.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 63,
+    "name": "Al-Munafiqun",
+    "arabicName": "المنافقون",
+    "meaning": "The Hypocrites",
+    "verseCount": 11,
+    "revelation": "madinah",
+    "dataFile": "data/verses/63.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 64,
+    "name": "At-Taghabun",
+    "arabicName": "التغابن",
+    "meaning": "The Mutual Disillusion",
+    "verseCount": 18,
+    "revelation": "madinah",
+    "dataFile": "data/verses/64.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 65,
+    "name": "At-Talaq",
+    "arabicName": "الطلاق",
+    "meaning": "The Divorce",
+    "verseCount": 12,
+    "revelation": "madinah",
+    "dataFile": "data/verses/65.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 66,
+    "name": "At-Tahrim",
+    "arabicName": "التحريم",
+    "meaning": "The Prohibition",
+    "verseCount": 12,
+    "revelation": "madinah",
+    "dataFile": "data/verses/66.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 67,
+    "name": "Al-Mulk",
+    "arabicName": "الملك",
+    "meaning": "The Sovereignty",
+    "verseCount": 30,
+    "revelation": "makkah",
+    "dataFile": "data/verses/67.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 68,
+    "name": "Al-Qalam",
+    "arabicName": "القلم",
+    "meaning": "The Pen",
+    "verseCount": 52,
+    "revelation": "makkah",
+    "dataFile": "data/verses/68.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 69,
+    "name": "Al-Haqqah",
+    "arabicName": "الحاقة",
+    "meaning": "The Reality",
+    "verseCount": 52,
+    "revelation": "makkah",
+    "dataFile": "data/verses/69.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 70,
+    "name": "Al-Ma'arij",
+    "arabicName": "المعارج",
+    "meaning": "The Ascending Stairways",
+    "verseCount": 44,
+    "revelation": "makkah",
+    "dataFile": "data/verses/70.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 71,
+    "name": "Nuh",
+    "arabicName": "نوح",
+    "meaning": "Noah",
+    "verseCount": 28,
+    "revelation": "makkah",
+    "dataFile": "data/verses/71.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 72,
+    "name": "Al-Jinn",
+    "arabicName": "الجن",
+    "meaning": "The Jinn",
+    "verseCount": 28,
+    "revelation": "makkah",
+    "dataFile": "data/verses/72.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 73,
+    "name": "Al-Muzzammil",
+    "arabicName": "المزمل",
+    "meaning": "The Enshrouded One",
+    "verseCount": 20,
+    "revelation": "makkah",
+    "dataFile": "data/verses/73.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 74,
+    "name": "Al-Muddaththir",
+    "arabicName": "المدثر",
+    "meaning": "The Cloaked One",
+    "verseCount": 56,
+    "revelation": "makkah",
+    "dataFile": "data/verses/74.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 75,
+    "name": "Al-Qiyamah",
+    "arabicName": "القيامة",
+    "meaning": "The Resurrection",
+    "verseCount": 40,
+    "revelation": "makkah",
+    "dataFile": "data/verses/75.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 76,
+    "name": "Al-Insan",
+    "arabicName": "الانسان",
+    "meaning": "The Man",
+    "verseCount": 31,
+    "revelation": "madinah",
+    "dataFile": "data/verses/76.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 77,
+    "name": "Al-Mursalat",
+    "arabicName": "المرسلات",
+    "meaning": "The Emissaries",
+    "verseCount": 50,
+    "revelation": "makkah",
+    "dataFile": "data/verses/77.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 78,
+    "name": "An-Naba",
+    "arabicName": "النبإ",
+    "meaning": "The Tidings",
+    "verseCount": 40,
+    "revelation": "makkah",
+    "dataFile": "data/verses/78.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 79,
+    "name": "An-Nazi'at",
+    "arabicName": "النازعات",
+    "meaning": "Those who drag forth",
+    "verseCount": 46,
+    "revelation": "makkah",
+    "dataFile": "data/verses/79.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 80,
+    "name": "'Abasa",
+    "arabicName": "عبس",
+    "meaning": "He Frowned",
+    "verseCount": 42,
+    "revelation": "makkah",
+    "dataFile": "data/verses/80.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 81,
+    "name": "At-Takwir",
+    "arabicName": "التكوير",
+    "meaning": "The Overthrowing",
+    "verseCount": 29,
+    "revelation": "makkah",
+    "dataFile": "data/verses/81.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 82,
+    "name": "Al-Infitar",
+    "arabicName": "الإنفطار",
+    "meaning": "The Cleaving",
+    "verseCount": 19,
+    "revelation": "makkah",
+    "dataFile": "data/verses/82.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 83,
+    "name": "Al-Mutaffifin",
+    "arabicName": "المطففين",
+    "meaning": "The Defrauding",
+    "verseCount": 36,
+    "revelation": "makkah",
+    "dataFile": "data/verses/83.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 84,
+    "name": "Al-Inshiqaq",
+    "arabicName": "الإنشقاق",
+    "meaning": "The Sundering",
+    "verseCount": 25,
+    "revelation": "makkah",
+    "dataFile": "data/verses/84.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 85,
+    "name": "Al-Buruj",
+    "arabicName": "البروج",
+    "meaning": "The Mansions of the Stars",
+    "verseCount": 22,
+    "revelation": "makkah",
+    "dataFile": "data/verses/85.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 86,
+    "name": "At-Tariq",
+    "arabicName": "الطارق",
+    "meaning": "The Nightcommer",
+    "verseCount": 17,
+    "revelation": "makkah",
+    "dataFile": "data/verses/86.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 87,
+    "name": "Al-A'la",
+    "arabicName": "الأعلى",
+    "meaning": "The Most High",
+    "verseCount": 19,
+    "revelation": "makkah",
+    "dataFile": "data/verses/87.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 88,
+    "name": "Al-Ghashiyah",
+    "arabicName": "الغاشية",
+    "meaning": "The Overwhelming",
+    "verseCount": 26,
+    "revelation": "makkah",
+    "dataFile": "data/verses/88.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 89,
+    "name": "Al-Fajr",
+    "arabicName": "الفجر",
+    "meaning": "The Dawn",
+    "verseCount": 30,
+    "revelation": "makkah",
+    "dataFile": "data/verses/89.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 90,
+    "name": "Al-Balad",
+    "arabicName": "البلد",
+    "meaning": "The City",
+    "verseCount": 20,
+    "revelation": "makkah",
+    "dataFile": "data/verses/90.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 91,
+    "name": "Ash-Shams",
+    "arabicName": "الشمس",
+    "meaning": "The Sun",
+    "verseCount": 15,
+    "revelation": "makkah",
+    "dataFile": "data/verses/91.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 92,
+    "name": "Al-Layl",
+    "arabicName": "الليل",
+    "meaning": "The Night",
+    "verseCount": 21,
+    "revelation": "makkah",
+    "dataFile": "data/verses/92.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 93,
+    "name": "Ad-Duhaa",
+    "arabicName": "الضحى",
+    "meaning": "The Morning Hours",
+    "verseCount": 11,
+    "revelation": "makkah",
+    "dataFile": "data/verses/93.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 94,
+    "name": "Ash-Sharh",
+    "arabicName": "الشرح",
+    "meaning": "The Relief",
+    "verseCount": 8,
+    "revelation": "makkah",
+    "dataFile": "data/verses/94.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 95,
+    "name": "At-Tin",
+    "arabicName": "التين",
+    "meaning": "The Fig",
+    "verseCount": 8,
+    "revelation": "makkah",
+    "dataFile": "data/verses/95.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 96,
+    "name": "Al-'Alaq",
+    "arabicName": "العلق",
+    "meaning": "The Clot",
+    "verseCount": 19,
+    "revelation": "makkah",
+    "dataFile": "data/verses/96.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 97,
+    "name": "Al-Qadr",
+    "arabicName": "القدر",
+    "meaning": "The Power",
+    "verseCount": 5,
+    "revelation": "makkah",
+    "dataFile": "data/verses/97.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 98,
+    "name": "Al-Bayyinah",
+    "arabicName": "البينة",
+    "meaning": "The Clear Proof",
+    "verseCount": 8,
+    "revelation": "madinah",
+    "dataFile": "data/verses/98.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 99,
+    "name": "Az-Zalzalah",
+    "arabicName": "الزلزلة",
+    "meaning": "The Earthquake",
+    "verseCount": 8,
+    "revelation": "madinah",
+    "dataFile": "data/verses/99.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 100,
+    "name": "Al-'Adiyat",
+    "arabicName": "العاديات",
+    "meaning": "The Courser",
+    "verseCount": 11,
+    "revelation": "makkah",
+    "dataFile": "data/verses/100.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 101,
+    "name": "Al-Qari'ah",
+    "arabicName": "القارعة",
+    "meaning": "The Calamity",
+    "verseCount": 11,
+    "revelation": "makkah",
+    "dataFile": "data/verses/101.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 102,
+    "name": "At-Takathur",
+    "arabicName": "التكاثر",
+    "meaning": "The Rivalry in world increase",
+    "verseCount": 8,
+    "revelation": "makkah",
+    "dataFile": "data/verses/102.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 103,
+    "name": "Al-'Asr",
+    "arabicName": "العصر",
+    "meaning": "The Declining Day",
+    "verseCount": 3,
+    "revelation": "makkah",
+    "dataFile": "data/verses/103.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 104,
+    "name": "Al-Humazah",
+    "arabicName": "الهمزة",
+    "meaning": "The Traducer",
+    "verseCount": 9,
+    "revelation": "makkah",
+    "dataFile": "data/verses/104.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 105,
+    "name": "Al-Fil",
+    "arabicName": "الفيل",
+    "meaning": "The Elephant",
+    "verseCount": 5,
+    "revelation": "makkah",
+    "dataFile": "data/verses/105.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 106,
+    "name": "Quraysh",
+    "arabicName": "قريش",
+    "meaning": "Quraysh",
+    "verseCount": 4,
+    "revelation": "makkah",
+    "dataFile": "data/verses/106.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 107,
+    "name": "Al-Ma'un",
+    "arabicName": "الماعون",
+    "meaning": "The Small kindnesses",
+    "verseCount": 7,
+    "revelation": "makkah",
+    "dataFile": "data/verses/107.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 108,
+    "name": "Al-Kawthar",
+    "arabicName": "الكوثر",
+    "meaning": "The Abundance",
+    "verseCount": 3,
+    "revelation": "makkah",
+    "dataFile": "data/verses/108.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 109,
+    "name": "Al-Kafirun",
+    "arabicName": "الكافرون",
+    "meaning": "The Disbelievers",
+    "verseCount": 6,
+    "revelation": "makkah",
+    "dataFile": "data/verses/109.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 110,
+    "name": "An-Nasr",
+    "arabicName": "النصر",
+    "meaning": "The Divine Support",
+    "verseCount": 3,
+    "revelation": "madinah",
+    "dataFile": "data/verses/110.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 111,
+    "name": "Al-Masad",
+    "arabicName": "المسد",
+    "meaning": "The Palm Fiber",
+    "verseCount": 5,
+    "revelation": "makkah",
+    "dataFile": "data/verses/111.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 112,
+    "name": "Al-Ikhlas",
+    "arabicName": "الإخلاص",
+    "meaning": "The Sincerity",
+    "verseCount": 4,
+    "revelation": "makkah",
+    "dataFile": "data/verses/112.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 113,
+    "name": "Al-Falaq",
+    "arabicName": "الفلق",
+    "meaning": "The Daybreak",
+    "verseCount": 5,
+    "revelation": "makkah",
+    "dataFile": "data/verses/113.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  },
+  {
+    "id": 114,
+    "name": "An-Nas",
+    "arabicName": "الناس",
+    "meaning": "Mankind",
+    "verseCount": 6,
+    "revelation": "makkah",
+    "dataFile": "data/verses/114.json",
+    "tntjChapterUrl": "https://onlinetntj.com/the-holy-quran/"
+  }
+]

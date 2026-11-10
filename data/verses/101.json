@@ -1,0 +1,88 @@
+{
+  "chapterId": 101,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " ٱلْقَارِعَةُ",
+      "englishText": "The Striking Calamity -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/101001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "مَا ٱلْقَارِعَةُ",
+      "englishText": "What is the Striking Calamity?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/101002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "englishText": "And what can make you know what is the Striking Calamity?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/101003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "englishText": "It is the Day when people will be like moths, dispersed,[1975]",
+      "footnotes": "[1975] The people will be as such after having been expelled from their graves.",
+      "audioUrl": "Alafasy/mp3/101004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "englishText": "And the mountains will be like wool, fluffed up.[1976]",
+      "footnotes": "[1976] i.e., beginning to disintegrate.",
+      "audioUrl": "Alafasy/mp3/101005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "englishText": "Then as for one whose scales are heavy [with good deeds],",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/101006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+      "englishText": "He will be in a pleasant life.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/101007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "englishText": "But as for one whose scales are light,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/101008.mp3"
+    },
+    {
+      "number": 9,
+      "arabicText": "فَأُمُّهُۥ هَاوِيَةٌ",
+      "englishText": "His refuge[1977] will be an abyss.[1978]",
+      "footnotes": "[1977] Literally, \"mother\" (a man's original refuge) , which will envelop him as in an embrace.\n[1978] i.e., the pit of Hellfire.",
+      "audioUrl": "Alafasy/mp3/101009.mp3"
+    },
+    {
+      "number": 10,
+      "arabicText": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "englishText": "And what can make you know what that is?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/101010.mp3"
+    },
+    {
+      "number": 11,
+      "arabicText": "نَارٌ حَامِيَةٌۢ",
+      "englishText": "It is a Fire, intensely hot.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/101011.mp3"
+    }
+  ]
+}

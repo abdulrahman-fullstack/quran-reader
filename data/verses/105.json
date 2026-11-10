@@ -1,0 +1,46 @@
+{
+  "chapterId": 105,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+      "englishText": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant?[1992]",
+      "footnotes": "[1992] i.e., the army under the command of Abrahah al-Ashram which was accompanied by a huge elephant and came with the intention of destroying the Kaʿbah at Makkah.",
+      "audioUrl": "Alafasy/mp3/105001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+      "englishText": "Did He not make their plan into misguidance?[1993]",
+      "footnotes": "[1993] Causing them to perish.",
+      "audioUrl": "Alafasy/mp3/105002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "englishText": "And He sent against them birds in flocks,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/105003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "englishText": "Striking them with stones of hard clay,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/105004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+      "englishText": "And He made them like eaten straw.[1994]",
+      "footnotes": "[1994] i.e., husks which have been chewed by cattle. This event took place in the year of the Prophet's birth.",
+      "audioUrl": "Alafasy/mp3/105005.mp3"
+    }
+  ]
+}

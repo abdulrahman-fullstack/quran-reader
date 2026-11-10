@@ -1,0 +1,67 @@
+{
+  "chapterId": 99,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "englishText": "When the earth is shaken with its [final] earthquake",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/099001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "englishText": "And the earth discharges its burdens[1962]",
+      "footnotes": "[1962] See verse 84:4.",
+      "audioUrl": "Alafasy/mp3/099002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+      "englishText": "And man says,[1963] \"What is [wrong] with it?\" -",
+      "footnotes": "[1963] In terror and amazement.",
+      "audioUrl": "Alafasy/mp3/099003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "englishText": "That Day, it will report its news",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/099004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "englishText": "Because your Lord has inspired [i.e., commanded] it.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/099005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+      "englishText": "That Day, the people will depart[1964] separated [into categories] to be shown [the result of] their deeds.",
+      "footnotes": "[1964] From the place of Judgement to their final abode. Another interpretation is \"emerge separately\" (from the graves) .",
+      "audioUrl": "Alafasy/mp3/099006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+      "englishText": "So whoever does an atom's weight[1965] of good will see it,",
+      "footnotes": "[1965] Or \"the weight of a small ant.\"",
+      "audioUrl": "Alafasy/mp3/099007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "englishText": "And whoever does an atom's weight of evil will see it.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/099008.mp3"
+    }
+  ]
+}

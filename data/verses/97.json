@@ -1,0 +1,46 @@
+{
+  "chapterId": 97,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "englishText": "Indeed, We sent it [i.e., the Qur’ān] down during the Night of Decree.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/097001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "englishText": "And what can make you know what is the Night of Decree?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/097002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+      "englishText": "The Night of Decree is better than a thousand months.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/097003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+      "englishText": "The angels and the Spirit [i.e., Gabriel] descend therein by permission of their Lord for every matter.[1955]",
+      "footnotes": "[1955] Bringing the exact measures apportioned for everything by Allāh in the course of the coming year.",
+      "audioUrl": "Alafasy/mp3/097004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+      "englishText": "Peace it is[1956] until the emergence of dawn.",
+      "footnotes": "[1956] Upon the believers.",
+      "audioUrl": "Alafasy/mp3/097005.mp3"
+    }
+  ]
+}

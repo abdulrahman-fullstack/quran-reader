@@ -1,0 +1,249 @@
+{
+  "chapterId": 31,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " الٓمٓ",
+      "englishText": "Alif, Lām, Meem.[1158]",
+      "footnotes": "[1158] See footnote to 2:1.",
+      "audioUrl": "Alafasy/mp3/031001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْحَكِيمِ",
+      "englishText": "These are verses of the wise[1159] Book,",
+      "footnotes": "[1159] See footnote to 10:1.",
+      "audioUrl": "Alafasy/mp3/031002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "هُدًى وَرَحْمَةً لِّلْمُحْسِنِينَ",
+      "englishText": "As guidance and mercy for the doers of good",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+      "englishText": "Who establish prayer and give zakāh, and they, of the Hereafter, are certain [in faith].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "أُو۟لَـٰٓئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "englishText": "Those are on [right] guidance from their Lord, and it is those who are the successful.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "وَمِنَ ٱلنَّاسِ مَن يَشْتَرِى لَهْوَ ٱلْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُوًا ۚ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ مُّهِينٌ",
+      "englishText": "And of the people is he who buys the amusement of speech[1160] to mislead [others] from the way of Allāh without knowledge and who takes it [i.e., His way] in ridicule. Those will have a humiliating punishment.",
+      "footnotes": "[1160] i.e., that which has no benefit. Described by different ṣaḥābah as shirk (association with Allāh), misleading stories, frivolous songs, or music but includes all which distracts or diverts one from the Qur’ān and remembrance of Allāh.",
+      "audioUrl": "Alafasy/mp3/031006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "وَإِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا وَلَّىٰ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا كَأَنَّ فِىٓ أُذُنَيْهِ وَقْرًا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ",
+      "englishText": "And when Our verses are recited to him, he turns away arrogantly as if he had not heard them, as if there was in his ears deafness. So give him tidings of a painful punishment.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتُ ٱلنَّعِيمِ",
+      "englishText": "Indeed, those who believe and do righteous deeds - for them are the Gardens of Pleasure,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031008.mp3"
+    },
+    {
+      "number": 9,
+      "arabicText": "خَـٰلِدِينَ فِيهَا ۖ وَعْدَ ٱللَّهِ حَقًّا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "englishText": "Wherein they abide eternally; [it is] the promise of Allāh [which is] truth. And He is the Exalted in Might, the Wise.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031009.mp3"
+    },
+    {
+      "number": 10,
+      "arabicText": "خَلَقَ ٱلسَّمَـٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ۖ وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ",
+      "englishText": "He created the heavens without pillars that you see and has cast into the earth firmly set mountains, lest it should shift with you, and dispersed therein from every creature. And We sent down rain from the sky and made grow therein [plants] of every noble kind.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031010.mp3"
+    },
+    {
+      "number": 11,
+      "arabicText": "هَـٰذَا خَلْقُ ٱللَّهِ فَأَرُونِى مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦ ۚ بَلِ ٱلظَّـٰلِمُونَ فِى ضَلَـٰلٍ مُّبِينٍ",
+      "englishText": "This is the creation of Allāh. So show Me what those other than Him have created. Rather, the wrongdoers are in clear error.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031011.mp3"
+    },
+    {
+      "number": 12,
+      "arabicText": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌ",
+      "englishText": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031012.mp3"
+    },
+    {
+      "number": 13,
+      "arabicText": "وَإِذْ قَالَ لُقْمَـٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَـٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ ۖ إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌ",
+      "englishText": "And [mention, O Muḥammad], when Luqmān said to his son while he was instructing him, \"O my son, do not associate [anything] with Allāh. Indeed, association [with Him] is great injustice.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031013.mp3"
+    },
+    {
+      "number": 14,
+      "arabicText": "وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ أُمُّهُۥ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَـٰلُهُۥ فِى عَامَيْنِ أَنِ ٱشْكُرْ لِى وَلِوَٰلِدَيْكَ إِلَىَّ ٱلْمَصِيرُ",
+      "englishText": "And We have enjoined upon man [care] for his parents. His mother carried him, [increasing her] in weakness upon weakness, and his weaning is in two years. Be grateful to Me and to your parents; to Me is the [final] destination.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031014.mp3"
+    },
+    {
+      "number": 15,
+      "arabicText": "وَإِن جَـٰهَدَاكَ عَلَىٰٓ أَن تُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ فَلَا تُطِعْهُمَا ۖ وَصَاحِبْهُمَا فِى ٱلدُّنْيَا مَعْرُوفًا ۖ وَٱتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَىَّ ۚ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+      "englishText": "But if they endeavor to make you associate with Me that of which you have no knowledge,[1161] do not obey them but accompany them in [this] world with appropriate kindness and follow the way of those who turn back to Me [in repentance]. Then to Me will be your return, and I will inform you about what you used to do.",
+      "footnotes": "[1161] See footnote to 29:8.",
+      "audioUrl": "Alafasy/mp3/031015.mp3"
+    },
+    {
+      "number": 16,
+      "arabicText": "يَـٰبُنَىَّ إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ فَتَكُن فِى صَخْرَةٍ أَوْ فِى ٱلسَّمَـٰوَٰتِ أَوْ فِى ٱلْأَرْضِ يَأْتِ بِهَا ٱللَّهُ ۚ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٌ",
+      "englishText": "[And Luqmān said], \"O my son, indeed if it [i.e., a wrong] should be the weight of a mustard seed and should be within a rock or [anywhere] in the heavens or in the earth, Allāh will bring it forth. Indeed, Allāh is Subtle[1162] and Aware.",
+      "footnotes": "[1162] Refer to footnote of 6:103.",
+      "audioUrl": "Alafasy/mp3/031016.mp3"
+    },
+    {
+      "number": 17,
+      "arabicText": "يَـٰبُنَىَّ أَقِمِ ٱلصَّلَوٰةَ وَأْمُرْ بِٱلْمَعْرُوفِ وَٱنْهَ عَنِ ٱلْمُنكَرِ وَٱصْبِرْ عَلَىٰ مَآ أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ",
+      "englishText": "O my son, establish prayer, enjoin what is right, forbid what is wrong, and be patient over what befalls you. Indeed, [all] that is of the matters [requiring] resolve.[1163]",
+      "footnotes": "[1163] For the reason that they are enjoined by Allāh.",
+      "audioUrl": "Alafasy/mp3/031017.mp3"
+    },
+    {
+      "number": 18,
+      "arabicText": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ",
+      "englishText": "And do not turn your cheek [in contempt] toward people[1164] and do not walk through the earth exultantly. Indeed, Allāh does not like everyone self-deluded and boastful.",
+      "footnotes": "[1164] Rather, respect them by directing your face and attention to them.",
+      "audioUrl": "Alafasy/mp3/031018.mp3"
+    },
+    {
+      "number": 19,
+      "arabicText": "وَٱقْصِدْ فِى مَشْيِكَ وَٱغْضُضْ مِن صَوْتِكَ ۚ إِنَّ أَنكَرَ ٱلْأَصْوَٰتِ لَصَوْتُ ٱلْحَمِيرِ",
+      "englishText": "And be moderate in your pace and lower your voice; indeed, the most disagreeable of sounds is the voice of donkeys.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031019.mp3"
+    },
+    {
+      "number": 20,
+      "arabicText": "أَلَمْ تَرَوْا۟ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُۥ ظَـٰهِرَةً وَبَاطِنَةً ۗ وَمِنَ ٱلنَّاسِ مَن يُجَـٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَـٰبٍ مُّنِيرٍ",
+      "englishText": "Do you not see that Allāh has made subject to you whatever is in the heavens and whatever is in the earth and amply bestowed upon you His favors, [both] apparent and unapparent? But of the people is he who disputes about Allāh without knowledge or guidance or an enlightening Book [from Him].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031020.mp3"
+    },
+    {
+      "number": 21,
+      "arabicText": "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ٱلشَّيْطَـٰنُ يَدْعُوهُمْ إِلَىٰ عَذَابِ ٱلسَّعِيرِ",
+      "englishText": "And when it is said to them, \"Follow what Allāh has revealed,\" they say, \"Rather, we will follow that upon which we found our fathers.\" Even if Satan was inviting them to the punishment of the Blaze?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031021.mp3"
+    },
+    {
+      "number": 22,
+      "arabicText": "۞ وَمَن يُسْلِمْ وَجْهَهُۥٓ إِلَى ٱللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ ۗ وَإِلَى ٱللَّهِ عَـٰقِبَةُ ٱلْأُمُورِ",
+      "englishText": "And whoever submits his face [i.e., self] to Allāh while he is a doer of good - then he has grasped the most trustworthy handhold. And to Allāh will be the outcome of [all] matters.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031022.mp3"
+    },
+    {
+      "number": 23,
+      "arabicText": "وَمَن كَفَرَ فَلَا يَحْزُنكَ كُفْرُهُۥٓ ۚ إِلَيْنَا مَرْجِعُهُمْ فَنُنَبِّئُهُم بِمَا عَمِلُوٓا۟ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "englishText": "And whoever has disbelieved - let not his disbelief grieve you. To Us is their return, and We will inform them of what they did. Indeed, Allāh is Knowing of that within the breasts.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031023.mp3"
+    },
+    {
+      "number": 24,
+      "arabicText": "نُمَتِّعُهُمْ قَلِيلًا ثُمَّ نَضْطَرُّهُمْ إِلَىٰ عَذَابٍ غَلِيظٍ",
+      "englishText": "We grant them enjoyment for a little; then We will force them to a massive punishment.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031024.mp3"
+    },
+    {
+      "number": 25,
+      "arabicText": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ ۚ قُلِ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+      "englishText": "And if you asked them, \"Who created the heavens and earth?\" they would surely say, \"Allāh.\" Say, \"[All] praise is [due] to Allāh\"; but most of them do not know.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031025.mp3"
+    },
+    {
+      "number": 26,
+      "arabicText": "لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ",
+      "englishText": "To Allāh belongs whatever is in the heavens and earth. Indeed, Allāh is the Free of need, the Praiseworthy.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031026.mp3"
+    },
+    {
+      "number": 27,
+      "arabicText": "وَلَوْ أَنَّمَا فِى ٱلْأَرْضِ مِن شَجَرَةٍ أَقْلَـٰمٌ وَٱلْبَحْرُ يَمُدُّهُۥ مِنۢ بَعْدِهِۦ سَبْعَةُ أَبْحُرٍ مَّا نَفِدَتْ كَلِمَـٰتُ ٱللَّهِ ۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+      "englishText": "And if whatever trees upon the earth were pens and the sea [was ink], replenished thereafter by seven [more] seas, the words[1165] of Allāh would not be exhausted. Indeed, Allāh is Exalted in Might and Wise.",
+      "footnotes": "[1165] See footnote to 18:109.",
+      "audioUrl": "Alafasy/mp3/031027.mp3"
+    },
+    {
+      "number": 28,
+      "arabicText": "مَّا خَلْقُكُمْ وَلَا بَعْثُكُمْ إِلَّا كَنَفْسٍ وَٰحِدَةٍ ۗ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+      "englishText": "Your creation and your resurrection will not be but as that of a single soul.[1166] Indeed, Allāh is Hearing and Seeing.",
+      "footnotes": "[1166] The re-creation and resurrection of one or of all is accomplished with equal ease by Allāh (subḥānahu wa taʿālā).",
+      "audioUrl": "Alafasy/mp3/031028.mp3"
+    },
+    {
+      "number": 29,
+      "arabicText": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِىٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى وَأَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "englishText": "Do you not see [i.e., know] that Allāh causes the night to enter the day and causes the day to enter the night and has subjected the sun and the moon, each running [its course] for a specified term, and that Allāh, of whatever you do, is Aware?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031029.mp3"
+    },
+    {
+      "number": 30,
+      "arabicText": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ ٱلْبَـٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ",
+      "englishText": "That is because Allāh is the True Reality, and that what they call upon[1167] other than Him is falsehood, and because Allāh is the Most High, the Grand.",
+      "footnotes": "[1167] In worship.",
+      "audioUrl": "Alafasy/mp3/031030.mp3"
+    },
+    {
+      "number": 31,
+      "arabicText": "أَلَمْ تَرَ أَنَّ ٱلْفُلْكَ تَجْرِى فِى ٱلْبَحْرِ بِنِعْمَتِ ٱللَّهِ لِيُرِيَكُم مِّنْ ءَايَـٰتِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "englishText": "Do you not see that ships sail through the sea by the favor of Allāh that He may show you of His signs? Indeed in that are signs for everyone patient and grateful.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031031.mp3"
+    },
+    {
+      "number": 32,
+      "arabicText": "وَإِذَا غَشِيَهُم مَّوْجٌ كَٱلظُّلَلِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ إِلَى ٱلْبَرِّ فَمِنْهُم مُّقْتَصِدٌ ۚ وَمَا يَجْحَدُ بِـَٔايَـٰتِنَآ إِلَّا كُلُّ خَتَّارٍ كَفُورٍ",
+      "englishText": "And when waves come over them like canopies, they supplicate Allāh, sincere to Him in religion [i.e., faith]. But when He delivers them to the land, there are [some] of them who are moderate [in faith]. And none rejects Our signs except everyone treacherous and ungrateful.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031032.mp3"
+    },
+    {
+      "number": 33,
+      "arabicText": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ وَٱخْشَوْا۟ يَوْمًا لَّا يَجْزِى وَالِدٌ عَن وَلَدِهِۦ وَلَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِۦ شَيْـًٔا ۚ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۖ فَلَا تَغُرَّنَّكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ",
+      "englishText": "O mankind, fear your Lord and fear a Day when no father will avail his son, nor will a son avail his father at all. Indeed, the promise of Allāh is truth, so let not the worldly life delude you and be not deceived about Allāh by the Deceiver [i.e., Satan].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/031033.mp3"
+    },
+    {
+      "number": 34,
+      "arabicText": "إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلْغَيْثَ وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ ۖ وَمَا تَدْرِى نَفْسٌ مَّاذَا تَكْسِبُ غَدًا ۖ وَمَا تَدْرِى نَفْسٌۢ بِأَىِّ أَرْضٍ تَمُوتُ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۢ",
+      "englishText": "Indeed, Allāh [alone] has knowledge of the Hour and sends down the rain and knows what is in the wombs.[1168] And no soul perceives what it will earn tomorrow, and no soul perceives in what land it will die. Indeed, Allāh is Knowing and Aware.",
+      "footnotes": "[1168] i.e., every aspect of the fetus' present and future existence.",
+      "audioUrl": "Alafasy/mp3/031034.mp3"
+    }
+  ]
+}

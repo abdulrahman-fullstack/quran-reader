@@ -1,0 +1,151 @@
+{
+  "chapterId": 90,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
+      "englishText": "I swear by this city [i.e., Makkah] –",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/090001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "وَأَنتَ حِلٌّۢ بِهَـٰذَا ٱلْبَلَدِ",
+      "englishText": "And you, [O Muḥammad], are free of restriction in this city –",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/090002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "وَوَالِدٍ وَمَا وَلَدَ",
+      "englishText": "And [by] the father[1924] and that which was born [of him],",
+      "footnotes": "[1924] Said to be Adam (upon him be peace) .",
+      "audioUrl": "Alafasy/mp3/090003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+      "englishText": "We have certainly created man into hardship.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/090004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+      "englishText": "Does he think that never will anyone overcome him?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/090005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+      "englishText": "He says, \"I have spent wealth in abundance.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/090006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+      "englishText": "Does he think that no one has seen him?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/090007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+      "englishText": "Have We not made for him two eyes?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/090008.mp3"
+    },
+    {
+      "number": 9,
+      "arabicText": "وَلِسَانًا وَشَفَتَيْنِ",
+      "englishText": "And a tongue and two lips?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/090009.mp3"
+    },
+    {
+      "number": 10,
+      "arabicText": "وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ",
+      "englishText": "And have shown him the two ways?[1925]",
+      "footnotes": "[1925] Of good and evil.",
+      "audioUrl": "Alafasy/mp3/090010.mp3"
+    },
+    {
+      "number": 11,
+      "arabicText": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+      "englishText": "But he has not broken through the difficult pass.[1926]",
+      "footnotes": "[1926] i.e., the steep incline or obstacle. In other words, he has not spent in the cause of Allāh but only boasts of spending in front of others.",
+      "audioUrl": "Alafasy/mp3/090011.mp3"
+    },
+    {
+      "number": 12,
+      "arabicText": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+      "englishText": "And what can make you know what is [breaking through] the difficult pass?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/090012.mp3"
+    },
+    {
+      "number": 13,
+      "arabicText": "فَكُّ رَقَبَةٍ",
+      "englishText": "It is the freeing of a slave",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/090013.mp3"
+    },
+    {
+      "number": 14,
+      "arabicText": "أَوْ إِطْعَـٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
+      "englishText": "Or feeding on a day of severe hunger",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/090014.mp3"
+    },
+    {
+      "number": 15,
+      "arabicText": "يَتِيمًا ذَا مَقْرَبَةٍ",
+      "englishText": "An orphan of near relationship",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/090015.mp3"
+    },
+    {
+      "number": 16,
+      "arabicText": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+      "englishText": "Or a needy person in misery",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/090016.mp3"
+    },
+    {
+      "number": 17,
+      "arabicText": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+      "englishText": "And then being among those who believed and advised one another to patience and advised one another to compassion.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/090017.mp3"
+    },
+    {
+      "number": 18,
+      "arabicText": "أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+      "englishText": "Those are the companions of the right.[1927]",
+      "footnotes": "[1927] Or \"the companions of good fortune,\" i.e., those who receive their records in their right hands and proceed to Paradise.",
+      "audioUrl": "Alafasy/mp3/090018.mp3"
+    },
+    {
+      "number": 19,
+      "arabicText": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا هُمْ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+      "englishText": "But they who disbelieved in Our signs - those are the companions of the left.[1928]",
+      "footnotes": "[1928] Or \"the companions of ill fortune,\" i.e., those who receive their records in their left hands and proceed to Hell.",
+      "audioUrl": "Alafasy/mp3/090019.mp3"
+    },
+    {
+      "number": 20,
+      "arabicText": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
+      "englishText": "Over them will be fire closed in.[1929]",
+      "footnotes": "[1929] The cover over Hell will be sealed and locked, containing its fire and its inhabitants.",
+      "audioUrl": "Alafasy/mp3/090020.mp3"
+    }
+  ]
+}

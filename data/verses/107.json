@@ -1,0 +1,60 @@
+{
+  "chapterId": 107,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+      "englishText": "Have you seen the one who denies the Recompense?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/107001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+      "englishText": "For that is the one who drives away the orphan",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/107002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "englishText": "And does not encourage the feeding of the poor.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/107003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+      "englishText": "So woe to those who pray",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/107004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+      "englishText": "[But] who are heedless of their prayer[2000] -",
+      "footnotes": "[2000] i.e., the hypocrites who are unconcerned if they miss prayers when no one sees them.",
+      "audioUrl": "Alafasy/mp3/107005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+      "englishText": "Those who make show [of their deeds]",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/107006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+      "englishText": "And withhold [simple] assistance.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/107007.mp3"
+    }
+  ]
+}

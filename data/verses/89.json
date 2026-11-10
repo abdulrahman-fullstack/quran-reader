@@ -1,0 +1,221 @@
+{
+  "chapterId": 89,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " وَٱلْفَجْرِ",
+      "englishText": "By the dawn",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "وَلَيَالٍ عَشْرٍ",
+      "englishText": "And [by] ten nights[1913]",
+      "footnotes": "[1913] Usually interpreted as the first ten nights of the month of Dhul-Ḥijjah.",
+      "audioUrl": "Alafasy/mp3/089002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+      "englishText": "And [by] the even [number] and the odd",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "وَٱلَّيْلِ إِذَا يَسْرِ",
+      "englishText": "And [by] the night when it passes,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
+      "englishText": "Is there [not] in [all] that an oath [sufficient] for one of perception?[1914]",
+      "footnotes": "[1914] Based upon the following verses, what has been sworn to by Allāh is that He will certainly punish the disbelievers.",
+      "audioUrl": "Alafasy/mp3/089005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "englishText": "Have you not considered how your Lord dealt with ʿAad -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+      "englishText": "[With] Iram[1915] - who had lofty pillars,[1916]",
+      "footnotes": "[1915] Another name for the first people of ʿAad, to whom Prophet Hūd was sent.\n[1916] Supporting their tents or buildings.",
+      "audioUrl": "Alafasy/mp3/089007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَـٰدِ",
+      "englishText": "The likes of whom had never been created in the land?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089008.mp3"
+    },
+    {
+      "number": 9,
+      "arabicText": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+      "englishText": "And [with] Thamūd, who carved out the rocks in the valley?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089009.mp3"
+    },
+    {
+      "number": 10,
+      "arabicText": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+      "englishText": "And [with] Pharaoh, owner of the stakes?[1917]",
+      "footnotes": "[1917] By which he tortured people.",
+      "audioUrl": "Alafasy/mp3/089010.mp3"
+    },
+    {
+      "number": 11,
+      "arabicText": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَـٰدِ",
+      "englishText": "[All of] whom oppressed within the lands",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089011.mp3"
+    },
+    {
+      "number": 12,
+      "arabicText": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
+      "englishText": "And increased therein the corruption.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089012.mp3"
+    },
+    {
+      "number": 13,
+      "arabicText": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+      "englishText": "So your Lord poured upon them a scourge of punishment.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089013.mp3"
+    },
+    {
+      "number": 14,
+      "arabicText": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+      "englishText": "Indeed, your Lord is in observation.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089014.mp3"
+    },
+    {
+      "number": 15,
+      "arabicText": "فَأَمَّا ٱلْإِنسَـٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+      "englishText": "And as for man, when his Lord tries him and [thus] is generous to him and favors him, he says, \"My Lord has honored me.\"[1918]",
+      "footnotes": "[1918] He is proud rather than grateful, attributing the favor to his own merit.",
+      "audioUrl": "Alafasy/mp3/089015.mp3"
+    },
+    {
+      "number": 16,
+      "arabicText": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَـٰنَنِ",
+      "englishText": "But when He tries him and restricts his provision, he says, \"My Lord has humiliated me.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089016.mp3"
+    },
+    {
+      "number": 17,
+      "arabicText": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
+      "englishText": "No![1919] But you do not honor the orphan",
+      "footnotes": "[1919] It is not like you imagine. Rather, Allāh tries people through prosperity and hardship and rewards both gratitude and patience with honor in the Hereafter.",
+      "audioUrl": "Alafasy/mp3/089017.mp3"
+    },
+    {
+      "number": 18,
+      "arabicText": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "englishText": "And you do not encourage one another to feed the poor.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089018.mp3"
+    },
+    {
+      "number": 19,
+      "arabicText": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا",
+      "englishText": "And you consume inheritance, devouring [it] altogether,[1920]",
+      "footnotes": "[1920] Not caring whether it is lawful or unlawful.",
+      "audioUrl": "Alafasy/mp3/089019.mp3"
+    },
+    {
+      "number": 20,
+      "arabicText": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+      "englishText": "And you love wealth with immense love.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089020.mp3"
+    },
+    {
+      "number": 21,
+      "arabicText": "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّا دَكًّا",
+      "englishText": "No! When the earth has been leveled - pounded and crushed",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089021.mp3"
+    },
+    {
+      "number": 22,
+      "arabicText": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا",
+      "englishText": "And your Lord has come[1921] and the angels, rank upon rank,",
+      "footnotes": "[1921] To pass judgement. See footnote to 2:19.",
+      "audioUrl": "Alafasy/mp3/089022.mp3"
+    },
+    {
+      "number": 23,
+      "arabicText": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+      "englishText": "And brought [within view], that Day, is Hell - that Day, man will remember, but how [i.e., what good] to him will be the remembrance?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089023.mp3"
+    },
+    {
+      "number": 24,
+      "arabicText": "يَقُولُ يَـٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
+      "englishText": "He will say, \"Oh, I wish I had sent ahead [some good] for my life.\"[1922]",
+      "footnotes": "[1922] The everlasting life of the Hereafter.",
+      "audioUrl": "Alafasy/mp3/089024.mp3"
+    },
+    {
+      "number": 25,
+      "arabicText": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌ",
+      "englishText": "So on that Day, none will punish [as severely] as His punishment,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089025.mp3"
+    },
+    {
+      "number": 26,
+      "arabicText": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌ",
+      "englishText": "And none will bind [as severely] as His binding [of the evildoers].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089026.mp3"
+    },
+    {
+      "number": 27,
+      "arabicText": "يَـٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
+      "englishText": "[To the righteous it will be said], \"O reassured soul,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089027.mp3"
+    },
+    {
+      "number": 28,
+      "arabicText": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+      "englishText": "Return to your Lord, well-pleased and pleasing [to Him],",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089028.mp3"
+    },
+    {
+      "number": 29,
+      "arabicText": "فَٱدْخُلِى فِى عِبَـٰدِى",
+      "englishText": "And enter among My [righteous] servants",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089029.mp3"
+    },
+    {
+      "number": 30,
+      "arabicText": "وَٱدْخُلِى جَنَّتِى",
+      "englishText": "And enter My Paradise.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/089030.mp3"
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "chapterId": 36,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " يسٓ",
+      "englishText": "Yā, Seen.[1260]",
+      "footnotes": "[1260] See footnote to 2:1.",
+      "audioUrl": "Alafasy/mp3/036001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "وَٱلْقُرْءَانِ ٱلْحَكِيمِ",
+      "englishText": "By the wise[1261] Qur’ān,",
+      "footnotes": "[1261] See footnote to 10:1.",
+      "audioUrl": "Alafasy/mp3/036002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "إِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ",
+      "englishText": "Indeed you, [O Muḥammad], are from among the messengers,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "englishText": "On a straight path.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "تَنزِيلَ ٱلْعَزِيزِ ٱلرَّحِيمِ",
+      "englishText": "[This is] a revelation of the Exalted in Might, the Merciful,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "لِتُنذِرَ قَوْمًا مَّآ أُنذِرَ ءَابَآؤُهُمْ فَهُمْ غَـٰفِلُونَ",
+      "englishText": "That you may warn a people whose forefathers were not warned, so they are unaware.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "لَقَدْ حَقَّ ٱلْقَوْلُ عَلَىٰٓ أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِنُونَ",
+      "englishText": "Already the word [i.e., decree] has come into effect upon most of them, so they do not believe.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "إِنَّا جَعَلْنَا فِىٓ أَعْنَـٰقِهِمْ أَغْلَـٰلًا فَهِىَ إِلَى ٱلْأَذْقَانِ فَهُم مُّقْمَحُونَ",
+      "englishText": "Indeed, We have put shackles on their necks, and they are to their chins, so they are with heads [kept] aloft.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036008.mp3"
+    },
+    {
+      "number": 9,
+      "arabicText": "وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَـٰهُمْ فَهُمْ لَا يُبْصِرُونَ",
+      "englishText": "And We have put before them a barrier and behind them a barrier and covered them, so they do not see.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036009.mp3"
+    },
+    {
+      "number": 10,
+      "arabicText": "وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+      "englishText": "And it is all the same for them whether you warn them or do not warn them - they will not believe.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036010.mp3"
+    },
+    {
+      "number": 11,
+      "arabicText": "إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكْرَ وَخَشِىَ ٱلرَّحْمَـٰنَ بِٱلْغَيْبِ ۖ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ",
+      "englishText": "You can only warn one who follows the message and fears the Most Merciful unseen. So give him good tidings of forgiveness and noble reward.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036011.mp3"
+    },
+    {
+      "number": 12,
+      "arabicText": "إِنَّا نَحْنُ نُحْىِ ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا۟ وَءَاثَـٰرَهُمْ ۚ وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ فِىٓ إِمَامٍ مُّبِينٍ",
+      "englishText": "Indeed, it is We who bring the dead to life and record what they have put forth and what they left behind, and all things We have enumerated in a clear register.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036012.mp3"
+    },
+    {
+      "number": 13,
+      "arabicText": "وَٱضْرِبْ لَهُم مَّثَلًا أَصْحَـٰبَ ٱلْقَرْيَةِ إِذْ جَآءَهَا ٱلْمُرْسَلُونَ",
+      "englishText": "And present to them an example: the people of the city, when the messengers came to it -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036013.mp3"
+    },
+    {
+      "number": 14,
+      "arabicText": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+      "englishText": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036014.mp3"
+    },
+    {
+      "number": 15,
+      "arabicText": "قَالُوا۟ مَآ أَنتُمْ إِلَّا بَشَرٌ مِّثْلُنَا وَمَآ أَنزَلَ ٱلرَّحْمَـٰنُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا تَكْذِبُونَ",
+      "englishText": "They said, \"You are not but human beings like us, and the Most Merciful has not revealed a thing. You are only telling lies.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036015.mp3"
+    },
+    {
+      "number": 16,
+      "arabicText": "قَالُوا۟ رَبُّنَا يَعْلَمُ إِنَّآ إِلَيْكُمْ لَمُرْسَلُونَ",
+      "englishText": "They said, \"Our Lord knows that we are messengers to you,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036016.mp3"
+    },
+    {
+      "number": 17,
+      "arabicText": "وَمَا عَلَيْنَآ إِلَّا ٱلْبَلَـٰغُ ٱلْمُبِينُ",
+      "englishText": "And we are not responsible except for clear notification.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036017.mp3"
+    },
+    {
+      "number": 18,
+      "arabicText": "قَالُوٓا۟ إِنَّا تَطَيَّرْنَا بِكُمْ ۖ لَئِن لَّمْ تَنتَهُوا۟ لَنَرْجُمَنَّكُمْ وَلَيَمَسَّنَّكُم مِّنَّا عَذَابٌ أَلِيمٌ",
+      "englishText": "They said, \"Indeed, we consider you a bad omen. If you do not desist, we will surely stone you, and there will surely touch you, from us, a painful punishment.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036018.mp3"
+    },
+    {
+      "number": 19,
+      "arabicText": "قَالُوا۟ طَـٰٓئِرُكُم مَّعَكُمْ ۚ أَئِن ذُكِّرْتُم ۚ بَلْ أَنتُمْ قَوْمٌ مُّسْرِفُونَ",
+      "englishText": "They said, \"Your omen [i.e., fate] is with yourselves. Is it[1262] because you were reminded? Rather, you are a transgressing people.\"",
+      "footnotes": "[1262] Your threat against us.",
+      "audioUrl": "Alafasy/mp3/036019.mp3"
+    },
+    {
+      "number": 20,
+      "arabicText": "وَجَآءَ مِنْ أَقْصَا ٱلْمَدِينَةِ رَجُلٌ يَسْعَىٰ قَالَ يَـٰقَوْمِ ٱتَّبِعُوا۟ ٱلْمُرْسَلِينَ",
+      "englishText": "And there came from the farthest end of the city a man, running. He said, \"O my people, follow the messengers.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036020.mp3"
+    },
+    {
+      "number": 21,
+      "arabicText": "ٱتَّبِعُوا۟ مَن لَّا يَسْـَٔلُكُمْ أَجْرًا وَهُم مُّهْتَدُونَ",
+      "englishText": "Follow those who do not ask of you [any] payment, and they are [rightly] guided.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036021.mp3"
+    },
+    {
+      "number": 22,
+      "arabicText": "وَمَا لِىَ لَآ أَعْبُدُ ٱلَّذِى فَطَرَنِى وَإِلَيْهِ تُرْجَعُونَ",
+      "englishText": "And why should I not worship He who created me and to whom you will be returned?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036022.mp3"
+    },
+    {
+      "number": 23,
+      "arabicText": "ءَأَتَّخِذُ مِن دُونِهِۦٓ ءَالِهَةً إِن يُرِدْنِ ٱلرَّحْمَـٰنُ بِضُرٍّ لَّا تُغْنِ عَنِّى شَفَـٰعَتُهُمْ شَيْـًٔا وَلَا يُنقِذُونِ",
+      "englishText": "Should I take other than Him [false] deities [while], if the Most Merciful intends for me some adversity, their intercession will not avail me at all, nor can they save me?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036023.mp3"
+    },
+    {
+      "number": 24,
+      "arabicText": "إِنِّىٓ إِذًا لَّفِى ضَلَـٰلٍ مُّبِينٍ",
+      "englishText": "Indeed, I would then be in manifest error.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036024.mp3"
+    },
+    {
+      "number": 25,
+      "arabicText": "إِنِّىٓ ءَامَنتُ بِرَبِّكُمْ فَٱسْمَعُونِ",
+      "englishText": "Indeed, I have believed in your Lord, so listen to me.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036025.mp3"
+    },
+    {
+      "number": 26,
+      "arabicText": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+      "englishText": "It was said, \"Enter Paradise.\"[1263] He said, \"I wish my people could know",
+      "footnotes": "[1263] An abrupt transfer to the Hereafter conveys the meaning that the man met a violent death at the hands of the disbelievers and so was martyred for the cause of Allāh.",
+      "audioUrl": "Alafasy/mp3/036026.mp3"
+    },
+    {
+      "number": 27,
+      "arabicText": "بِمَا غَفَرَ لِى رَبِّى وَجَعَلَنِى مِنَ ٱلْمُكْرَمِينَ",
+      "englishText": "Of how my Lord has forgiven me and placed me among the honored.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036027.mp3"
+    },
+    {
+      "number": 28,
+      "arabicText": "۞ وَمَآ أَنزَلْنَا عَلَىٰ قَوْمِهِۦ مِنۢ بَعْدِهِۦ مِن جُندٍ مِّنَ ٱلسَّمَآءِ وَمَا كُنَّا مُنزِلِينَ",
+      "englishText": "And We did not send down upon his people after him any soldiers from the heaven, nor would We have done so.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036028.mp3"
+    },
+    {
+      "number": 29,
+      "arabicText": "إِن كَانَتْ إِلَّا صَيْحَةً وَٰحِدَةً فَإِذَا هُمْ خَـٰمِدُونَ",
+      "englishText": "It was not but one shout,[1264] and immediately they were extinguished.",
+      "footnotes": "[1264] From Gabriel or a blast from the sky.",
+      "audioUrl": "Alafasy/mp3/036029.mp3"
+    },
+    {
+      "number": 30,
+      "arabicText": "يَـٰحَسْرَةً عَلَى ٱلْعِبَادِ ۚ مَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "englishText": "How regretful for the servants. There did not come to them any messenger except that they used to ridicule him.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036030.mp3"
+    },
+    {
+      "number": 31,
+      "arabicText": "أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا قَبْلَهُم مِّنَ ٱلْقُرُونِ أَنَّهُمْ إِلَيْهِمْ لَا يَرْجِعُونَ",
+      "englishText": "Have they not considered how many generations We destroyed before them - that they to them[1265] will not return?",
+      "footnotes": "[1265] i.e., to those living presently in the world.",
+      "audioUrl": "Alafasy/mp3/036031.mp3"
+    },
+    {
+      "number": 32,
+      "arabicText": "وَإِن كُلٌّ لَّمَّا جَمِيعٌ لَّدَيْنَا مُحْضَرُونَ",
+      "englishText": "And indeed, all of them will yet be brought present before Us.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036032.mp3"
+    },
+    {
+      "number": 33,
+      "arabicText": "وَءَايَةٌ لَّهُمُ ٱلْأَرْضُ ٱلْمَيْتَةُ أَحْيَيْنَـٰهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ",
+      "englishText": "And a sign for them is the dead earth. We have brought it to life and brought forth from it grain, and from it they eat.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036033.mp3"
+    },
+    {
+      "number": 34,
+      "arabicText": "وَجَعَلْنَا فِيهَا جَنَّـٰتٍ مِّن نَّخِيلٍ وَأَعْنَـٰبٍ وَفَجَّرْنَا فِيهَا مِنَ ٱلْعُيُونِ",
+      "englishText": "And We placed therein gardens of palm trees and grapevines and caused to burst forth therefrom some springs -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036034.mp3"
+    },
+    {
+      "number": 35,
+      "arabicText": "لِيَأْكُلُوا۟ مِن ثَمَرِهِۦ وَمَا عَمِلَتْهُ أَيْدِيهِمْ ۖ أَفَلَا يَشْكُرُونَ",
+      "englishText": "That they may eat of His fruit.[1266] And their hands have not produced it,[1267] so will they not be grateful?",
+      "footnotes": "[1266] i.e., that which Allāh has produced for them.\n[1267] An alternative meaning is \"And [eat from] what their hands have produced [i.e., planted and harvested].\" Both are grammatically correct.",
+      "audioUrl": "Alafasy/mp3/036035.mp3"
+    },
+    {
+      "number": 36,
+      "arabicText": "سُبْحَـٰنَ ٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ وَمِنْ أَنفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ",
+      "englishText": "Exalted is He who created all pairs[1268] - from what the earth grows and from themselves and from that which they do not know.",
+      "footnotes": "[1268] Or \"all species.\"",
+      "audioUrl": "Alafasy/mp3/036036.mp3"
+    },
+    {
+      "number": 37,
+      "arabicText": "وَءَايَةٌ لَّهُمُ ٱلَّيْلُ نَسْلَخُ مِنْهُ ٱلنَّهَارَ فَإِذَا هُم مُّظْلِمُونَ",
+      "englishText": "And a sign for them is the night. We remove[1269] from it the [light of] day, so they are [left] in darkness.",
+      "footnotes": "[1269] Literally, \"strip\" or \"peel.\" Sunlight projected onto the earth is removed from it as the earth turns and night approaches.",
+      "audioUrl": "Alafasy/mp3/036037.mp3"
+    },
+    {
+      "number": 38,
+      "arabicText": "وَٱلشَّمْسُ تَجْرِى لِمُسْتَقَرٍّ لَّهَا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+      "englishText": "And the sun runs [on course] toward its stopping point. That is the determination of the Exalted in Might, the Knowing.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036038.mp3"
+    },
+    {
+      "number": 39,
+      "arabicText": "وَٱلْقَمَرَ قَدَّرْنَـٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلْعُرْجُونِ ٱلْقَدِيمِ",
+      "englishText": "And the moon - We have determined for it phases, until it returns [appearing] like the old date stalk.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036039.mp3"
+    },
+    {
+      "number": 40,
+      "arabicText": "لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ ۚ وَكُلٌّ فِى فَلَكٍ يَسْبَحُونَ",
+      "englishText": "It is not allowable [i.e., possible] for the sun to reach the moon, nor does the night overtake the day, but each, in an orbit, is swimming.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036040.mp3"
+    },
+    {
+      "number": 41,
+      "arabicText": "وَءَايَةٌ لَّهُمْ أَنَّا حَمَلْنَا ذُرِّيَّتَهُمْ فِى ٱلْفُلْكِ ٱلْمَشْحُونِ",
+      "englishText": "And a sign for them is that We carried their forefathers[1270] in a laden ship.",
+      "footnotes": "[1270] Usually meaning \"descendants\" or \"offspring,\" the word \"dhurriyyah\" is used here to denote forefathers (their being the offspring of Noah), who were saved from the flood.",
+      "audioUrl": "Alafasy/mp3/036041.mp3"
+    },
+    {
+      "number": 42,
+      "arabicText": "وَخَلَقْنَا لَهُم مِّن مِّثْلِهِۦ مَا يَرْكَبُونَ",
+      "englishText": "And We created for them from the likes of it that which they ride.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036042.mp3"
+    },
+    {
+      "number": 43,
+      "arabicText": "وَإِن نَّشَأْ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ وَلَا هُمْ يُنقَذُونَ",
+      "englishText": "And if We should will, We could drown them; then no one responding to a cry would there be for them, nor would they be saved",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036043.mp3"
+    },
+    {
+      "number": 44,
+      "arabicText": "إِلَّا رَحْمَةً مِّنَّا وَمَتَـٰعًا إِلَىٰ حِينٍ",
+      "englishText": "Except as a mercy from Us and provision for a time.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036044.mp3"
+    },
+    {
+      "number": 45,
+      "arabicText": "وَإِذَا قِيلَ لَهُمُ ٱتَّقُوا۟ مَا بَيْنَ أَيْدِيكُمْ وَمَا خَلْفَكُمْ لَعَلَّكُمْ تُرْحَمُونَ",
+      "englishText": "But when it is said to them, \"Beware of what is before you and what is behind you;[1271] perhaps you will receive mercy...\"[1272]",
+      "footnotes": "[1271] Of sins or of life in this world and the Hereafter.\n[1272] The conclusion of this sentence is understood to be \"...they ignored the warning.\"",
+      "audioUrl": "Alafasy/mp3/036045.mp3"
+    },
+    {
+      "number": 46,
+      "arabicText": "وَمَا تَأْتِيهِم مِّنْ ءَايَةٍ مِّنْ ءَايَـٰتِ رَبِّهِمْ إِلَّا كَانُوا۟ عَنْهَا مُعْرِضِينَ",
+      "englishText": "And no sign comes to them from the signs of their Lord except that they are from it turning away.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036046.mp3"
+    },
+    {
+      "number": 47,
+      "arabicText": "وَإِذَا قِيلَ لَهُمْ أَنفِقُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَنُطْعِمُ مَن لَّوْ يَشَآءُ ٱللَّهُ أَطْعَمَهُۥٓ إِنْ أَنتُمْ إِلَّا فِى ضَلَـٰلٍ مُّبِينٍ",
+      "englishText": "And when it is said to them, \"Spend from that which Allāh has provided for you,\" those who disbelieve say to those who believe, \"Should we feed one whom, if Allāh had willed, He would have fed? You are not but in clear error.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036047.mp3"
+    },
+    {
+      "number": 48,
+      "arabicText": "وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَـٰدِقِينَ",
+      "englishText": "And they say, \"When is this promise, if you should be truthful?\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036048.mp3"
+    },
+    {
+      "number": 49,
+      "arabicText": "مَا يَنظُرُونَ إِلَّا صَيْحَةً وَٰحِدَةً تَأْخُذُهُمْ وَهُمْ يَخِصِّمُونَ",
+      "englishText": "They do not await except one blast[1273] which will seize them while they are disputing.",
+      "footnotes": "[1273] Literally, \"cry\" or \"shriek,\" meaning the first blast of the Horn which will strike dead every living thing on the earth without warning.",
+      "audioUrl": "Alafasy/mp3/036049.mp3"
+    },
+    {
+      "number": 50,
+      "arabicText": "فَلَا يَسْتَطِيعُونَ تَوْصِيَةً وَلَآ إِلَىٰٓ أَهْلِهِمْ يَرْجِعُونَ",
+      "englishText": "And they will not be able [to give] any instruction, nor to their people can they return.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036050.mp3"
+    },
+    {
+      "number": 51,
+      "arabicText": "وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ",
+      "englishText": "And the Horn will be blown;[1274] and at once from the graves to their Lord they will hasten.",
+      "footnotes": "[1274] For the second time, signaling the Resurrection.",
+      "audioUrl": "Alafasy/mp3/036051.mp3"
+    },
+    {
+      "number": 52,
+      "arabicText": "قَالُوا۟ يَـٰوَيْلَنَا مَنۢ بَعَثَنَا مِن مَّرْقَدِنَا ۜ ۗ هَـٰذَا مَا وَعَدَ ٱلرَّحْمَـٰنُ وَصَدَقَ ٱلْمُرْسَلُونَ",
+      "englishText": "They will say, \"O woe to us! Who has raised us up from our sleeping place?\" [The reply will be], \"This is what the Most Merciful had promised, and the messengers told the truth.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036052.mp3"
+    },
+    {
+      "number": 53,
+      "arabicText": "إِن كَانَتْ إِلَّا صَيْحَةً وَٰحِدَةً فَإِذَا هُمْ جَمِيعٌ لَّدَيْنَا مُحْضَرُونَ",
+      "englishText": "It will not be but one blast, and at once they are all brought present before Us.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036053.mp3"
+    },
+    {
+      "number": 54,
+      "arabicText": "فَٱلْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْـًٔا وَلَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ",
+      "englishText": "So today [i.e., the Day of Judgement] no soul will be wronged at all, and you will not be recompensed except for what you used to do.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036054.mp3"
+    },
+    {
+      "number": 55,
+      "arabicText": "إِنَّ أَصْحَـٰبَ ٱلْجَنَّةِ ٱلْيَوْمَ فِى شُغُلٍ فَـٰكِهُونَ",
+      "englishText": "Indeed the companions of Paradise, that Day, will be amused in [joyful] occupation -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036055.mp3"
+    },
+    {
+      "number": 56,
+      "arabicText": "هُمْ وَأَزْوَٰجُهُمْ فِى ظِلَـٰلٍ عَلَى ٱلْأَرَآئِكِ مُتَّكِـُٔونَ",
+      "englishText": "They and their spouses - in shade, reclining on adorned couches.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036056.mp3"
+    },
+    {
+      "number": 57,
+      "arabicText": "لَهُمْ فِيهَا فَـٰكِهَةٌ وَلَهُم مَّا يَدَّعُونَ",
+      "englishText": "For them therein is fruit, and for them is whatever they request [or wish]",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036057.mp3"
+    },
+    {
+      "number": 58,
+      "arabicText": "سَلَـٰمٌ قَوْلًا مِّن رَّبٍّ رَّحِيمٍ",
+      "englishText": "[And] \"Peace,\" a word from a Merciful Lord.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036058.mp3"
+    },
+    {
+      "number": 59,
+      "arabicText": "وَٱمْتَـٰزُوا۟ ٱلْيَوْمَ أَيُّهَا ٱلْمُجْرِمُونَ",
+      "englishText": "[Then He will say], \"But stand apart today, you criminals.[1275]",
+      "footnotes": "[1275] i.e., remove yourself from the ranks of the believers to be distinguished from them.",
+      "audioUrl": "Alafasy/mp3/036059.mp3"
+    },
+    {
+      "number": 60,
+      "arabicText": "۞ أَلَمْ أَعْهَدْ إِلَيْكُمْ يَـٰبَنِىٓ ءَادَمَ أَن لَّا تَعْبُدُوا۟ ٱلشَّيْطَـٰنَ ۖ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ",
+      "englishText": "Did I not enjoin upon you, O children of Adam, that you not worship Satan - [for] indeed, he is to you a clear enemy -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036060.mp3"
+    },
+    {
+      "number": 61,
+      "arabicText": "وَأَنِ ٱعْبُدُونِى ۚ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ",
+      "englishText": "And that you worship [only] Me? This is a straight path.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036061.mp3"
+    },
+    {
+      "number": 62,
+      "arabicText": "وَلَقَدْ أَضَلَّ مِنكُمْ جِبِلًّا كَثِيرًا ۖ أَفَلَمْ تَكُونُوا۟ تَعْقِلُونَ",
+      "englishText": "And he had already led astray from among you much of creation, so did you not use reason?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036062.mp3"
+    },
+    {
+      "number": 63,
+      "arabicText": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى كُنتُمْ تُوعَدُونَ",
+      "englishText": "This is the Hellfire which you were promised.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036063.mp3"
+    },
+    {
+      "number": 64,
+      "arabicText": "ٱصْلَوْهَا ٱلْيَوْمَ بِمَا كُنتُمْ تَكْفُرُونَ",
+      "englishText": "[Enter to] burn therein today for what you used to deny.\"[1276]",
+      "footnotes": "[1276] Or \"because you used to disbelieve.\"",
+      "audioUrl": "Alafasy/mp3/036064.mp3"
+    },
+    {
+      "number": 65,
+      "arabicText": "ٱلْيَوْمَ نَخْتِمُ عَلَىٰٓ أَفْوَٰهِهِمْ وَتُكَلِّمُنَآ أَيْدِيهِمْ وَتَشْهَدُ أَرْجُلُهُم بِمَا كَانُوا۟ يَكْسِبُونَ",
+      "englishText": "That Day, We will seal over their mouths, and their hands will speak to Us, and their feet will testify about what they used to earn.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036065.mp3"
+    },
+    {
+      "number": 66,
+      "arabicText": "وَلَوْ نَشَآءُ لَطَمَسْنَا عَلَىٰٓ أَعْيُنِهِمْ فَٱسْتَبَقُوا۟ ٱلصِّرَٰطَ فَأَنَّىٰ يُبْصِرُونَ",
+      "englishText": "And if We willed, We could have obliterated their eyes, and they would race to [find] the path, and how could they see?[1277]",
+      "footnotes": "[1277] Allāh (subḥānahu wa taʿālā) could have left man without means of guidance in the life of this world, although in His mercy He did not.",
+      "audioUrl": "Alafasy/mp3/036066.mp3"
+    },
+    {
+      "number": 67,
+      "arabicText": "وَلَوْ نَشَآءُ لَمَسَخْنَـٰهُمْ عَلَىٰ مَكَانَتِهِمْ فَمَا ٱسْتَطَـٰعُوا۟ مُضِيًّا وَلَا يَرْجِعُونَ",
+      "englishText": "And if We willed, We could have deformed them, [paralyzing them] in their places so they would not be able to proceed, nor could they return.[1278]",
+      "footnotes": "[1278] He (subḥānahu wa taʿālā) could have prevented man from taking any action to benefit himself in this world or the Hereafter, yet He did not.",
+      "audioUrl": "Alafasy/mp3/036067.mp3"
+    },
+    {
+      "number": 68,
+      "arabicText": "وَمَن نُّعَمِّرْهُ نُنَكِّسْهُ فِى ٱلْخَلْقِ ۖ أَفَلَا يَعْقِلُونَ",
+      "englishText": "And he to whom We grant long life We reverse in creation;[1279] so will they not understand?",
+      "footnotes": "[1279] In his physical and mental capacity.",
+      "audioUrl": "Alafasy/mp3/036068.mp3"
+    },
+    {
+      "number": 69,
+      "arabicText": "وَمَا عَلَّمْنَـٰهُ ٱلشِّعْرَ وَمَا يَنۢبَغِى لَهُۥٓ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْءَانٌ مُّبِينٌ",
+      "englishText": "And We did not give him [i.e., Prophet Muḥammad (ﷺ)] knowledge of poetry, nor is it befitting for him. It is not but a message and a clear Qur’ān",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036069.mp3"
+    },
+    {
+      "number": 70,
+      "arabicText": "لِّيُنذِرَ مَن كَانَ حَيًّا وَيَحِقَّ ٱلْقَوْلُ عَلَى ٱلْكَـٰفِرِينَ",
+      "englishText": "To warn whoever is alive[1280] and justify the word [i.e., decree] against the disbelievers.",
+      "footnotes": "[1280] In heart and mind, i.e., the believers.",
+      "audioUrl": "Alafasy/mp3/036070.mp3"
+    },
+    {
+      "number": 71,
+      "arabicText": "أَوَلَمْ يَرَوْا۟ أَنَّا خَلَقْنَا لَهُم مِّمَّا عَمِلَتْ أَيْدِينَآ أَنْعَـٰمًا فَهُمْ لَهَا مَـٰلِكُونَ",
+      "englishText": "Do they not see that We have created for them from what Our hands[1281] have made, grazing livestock, and [then] they are their owners?",
+      "footnotes": "[1281] See footnote to 2:19.",
+      "audioUrl": "Alafasy/mp3/036071.mp3"
+    },
+    {
+      "number": 72,
+      "arabicText": "وَذَلَّلْنَـٰهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُلُونَ",
+      "englishText": "And We have tamed them for them, so some of them they ride, and some of them they eat.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036072.mp3"
+    },
+    {
+      "number": 73,
+      "arabicText": "وَلَهُمْ فِيهَا مَنَـٰفِعُ وَمَشَارِبُ ۖ أَفَلَا يَشْكُرُونَ",
+      "englishText": "And for them therein are [other] benefits and drinks, so will they not be grateful?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036073.mp3"
+    },
+    {
+      "number": 74,
+      "arabicText": "وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةً لَّعَلَّهُمْ يُنصَرُونَ",
+      "englishText": "But they have taken besides Allāh [false] deities that perhaps they would be helped.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036074.mp3"
+    },
+    {
+      "number": 75,
+      "arabicText": "لَا يَسْتَطِيعُونَ نَصْرَهُمْ وَهُمْ لَهُمْ جُندٌ مُّحْضَرُونَ",
+      "englishText": "They are not able to help them, and they [themselves] are for them soldiers in attendance.[1282]",
+      "footnotes": "[1282] Maintaining and protecting their \"gods.\" Another interpretation is that they (i.e., the gods) will be soldiers set against them in Hellfire.",
+      "audioUrl": "Alafasy/mp3/036075.mp3"
+    },
+    {
+      "number": 76,
+      "arabicText": "فَلَا يَحْزُنكَ قَوْلُهُمْ ۘ إِنَّا نَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ",
+      "englishText": "So let not their speech grieve you. Indeed, We know what they conceal and what they declare.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036076.mp3"
+    },
+    {
+      "number": 77,
+      "arabicText": "أَوَلَمْ يَرَ ٱلْإِنسَـٰنُ أَنَّا خَلَقْنَـٰهُ مِن نُّطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُّبِينٌ",
+      "englishText": "Does man not consider that We created him from a [mere] sperm-drop - then at once[1283] he is a clear adversary?",
+      "footnotes": "[1283] i.e., as soon as he becomes self-sufficient.",
+      "audioUrl": "Alafasy/mp3/036077.mp3"
+    },
+    {
+      "number": 78,
+      "arabicText": "وَضَرَبَ لَنَا مَثَلًا وَنَسِىَ خَلْقَهُۥ ۖ قَالَ مَن يُحْىِ ٱلْعِظَـٰمَ وَهِىَ رَمِيمٌ",
+      "englishText": "And he presents for Us an example[1284] and forgets his [own] creation. He says, \"Who will give life to bones while they are disintegrated?\"",
+      "footnotes": "[1284] Attempting to establish the finality of death.",
+      "audioUrl": "Alafasy/mp3/036078.mp3"
+    },
+    {
+      "number": 79,
+      "arabicText": "قُلْ يُحْيِيهَا ٱلَّذِىٓ أَنشَأَهَآ أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ",
+      "englishText": "Say, \"He will give them life who produced them the first time; and He is, of all creation, Knowing.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036079.mp3"
+    },
+    {
+      "number": 80,
+      "arabicText": "ٱلَّذِى جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلْأَخْضَرِ نَارًا فَإِذَآ أَنتُم مِّنْهُ تُوقِدُونَ",
+      "englishText": "[It is] He who made for you from the green tree, fire, and then from it you ignite.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036080.mp3"
+    },
+    {
+      "number": 81,
+      "arabicText": "أَوَلَيْسَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِقَـٰدِرٍ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُم ۚ بَلَىٰ وَهُوَ ٱلْخَلَّـٰقُ ٱلْعَلِيمُ",
+      "englishText": "Is not He who created the heavens and the earth Able to create the likes of them? Yes, [it is so]; and He is the Knowing Creator.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036081.mp3"
+    },
+    {
+      "number": 82,
+      "arabicText": "إِنَّمَآ أَمْرُهُۥٓ إِذَآ أَرَادَ شَيْـًٔا أَن يَقُولَ لَهُۥ كُن فَيَكُونُ",
+      "englishText": "His command is only when He intends a thing that He says to it, \"Be,\" and it is.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036082.mp3"
+    },
+    {
+      "number": 83,
+      "arabicText": "فَسُبْحَـٰنَ ٱلَّذِى بِيَدِهِۦ مَلَكُوتُ كُلِّ شَىْءٍ وَإِلَيْهِ تُرْجَعُونَ",
+      "englishText": "So exalted is He in whose hand is the realm of all things, and to Him you will be returned.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/036083.mp3"
+    }
+  ]
+}

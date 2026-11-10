@@ -1,0 +1,53 @@
+{
+  "chapterId": 114,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "englishText": "Say, \"I seek refuge in the Lord of mankind,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/114001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "مَلِكِ ٱلنَّاسِ",
+      "englishText": "The Sovereign of mankind,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/114002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "إِلَـٰهِ ٱلنَّاسِ",
+      "englishText": "The God of mankind,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/114003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "englishText": "From the evil of the retreating whisperer[2016] -",
+      "footnotes": "[2016] i.e., a devil who makes evil suggestions to man but disappears when one remembers Allāh.",
+      "audioUrl": "Alafasy/mp3/114004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "englishText": "Who whispers [evil] into the breasts of mankind -",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/114005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "englishText": "From among the jinn and mankind.\"[2017]",
+      "footnotes": "[2017] Evil prompters may be from men as well as from jinn.",
+      "audioUrl": "Alafasy/mp3/114006.mp3"
+    }
+  ]
+}

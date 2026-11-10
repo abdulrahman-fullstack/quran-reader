@@ -1,0 +1,53 @@
+{
+  "chapterId": 109,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+      "englishText": "Say, \"O disbelievers,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/109001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+      "englishText": "I do not worship what you worship.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/109002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "englishText": "Nor are you worshippers of what I worship.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/109003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+      "englishText": "Nor will I be a worshipper of what you worship.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/109004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "englishText": "Nor will you be worshippers of what I worship.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/109005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+      "englishText": "For you is your religion, and for me is my religion.\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/109006.mp3"
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "chapterId": 75,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " لَآ أُقْسِمُ بِيَوْمِ ٱلْقِيَـٰمَةِ",
+      "englishText": "I swear by the Day of Resurrection",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "وَلَآ أُقْسِمُ بِٱلنَّفْسِ ٱللَّوَّامَةِ",
+      "englishText": "And I swear by the reproaching soul[1800] [to the certainty of resurrection].",
+      "footnotes": "[1800] i.e., that of the believer, which blames him when he falls into sin or error.",
+      "audioUrl": "Alafasy/mp3/075002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "أَيَحْسَبُ ٱلْإِنسَـٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ",
+      "englishText": "Does man think that We will not assemble his bones?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "بَلَىٰ قَـٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ",
+      "englishText": "Yes. [We are] Able [even] to proportion his fingertips.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "بَلْ يُرِيدُ ٱلْإِنسَـٰنُ لِيَفْجُرَ أَمَامَهُۥ",
+      "englishText": "But man desires to continue in sin.[1801]",
+      "footnotes": "[1801] Literally, \"to sin ahead of him.\" This refers to the disbeliever, who denies the Day of Account.",
+      "audioUrl": "Alafasy/mp3/075005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَـٰمَةِ",
+      "englishText": "He asks, \"When is the Day of Resurrection?\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "فَإِذَا بَرِقَ ٱلْبَصَرُ",
+      "englishText": "So when vision is dazzled",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "وَخَسَفَ ٱلْقَمَرُ",
+      "englishText": "And the moon darkens",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075008.mp3"
+    },
+    {
+      "number": 9,
+      "arabicText": "وَجُمِعَ ٱلشَّمْسُ وَٱلْقَمَرُ",
+      "englishText": "And the sun and the moon are joined,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075009.mp3"
+    },
+    {
+      "number": 10,
+      "arabicText": "يَقُولُ ٱلْإِنسَـٰنُ يَوْمَئِذٍ أَيْنَ ٱلْمَفَرُّ",
+      "englishText": "Man will say on that Day, \"Where is the [place of] escape?\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075010.mp3"
+    },
+    {
+      "number": 11,
+      "arabicText": "كَلَّا لَا وَزَرَ",
+      "englishText": "No! There is no refuge.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075011.mp3"
+    },
+    {
+      "number": 12,
+      "arabicText": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمُسْتَقَرُّ",
+      "englishText": "To your Lord, that Day, is the [place of] permanence.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075012.mp3"
+    },
+    {
+      "number": 13,
+      "arabicText": "يُنَبَّؤُا۟ ٱلْإِنسَـٰنُ يَوْمَئِذٍۭ بِمَا قَدَّمَ وَأَخَّرَ",
+      "englishText": "Man will be informed that Day of what he sent ahead[1802] and kept back.[1803]",
+      "footnotes": "[1802] i.e., his deeds, which await him in the Hereafter.\n[1803] i.e., that which he did not do or which he delayed.",
+      "audioUrl": "Alafasy/mp3/075013.mp3"
+    },
+    {
+      "number": 14,
+      "arabicText": "بَلِ ٱلْإِنسَـٰنُ عَلَىٰ نَفْسِهِۦ بَصِيرَةٌ",
+      "englishText": "Rather, man, against himself, will be a witness,[1804]",
+      "footnotes": "[1804] As described in 36:65 and 41:20-23.",
+      "audioUrl": "Alafasy/mp3/075014.mp3"
+    },
+    {
+      "number": 15,
+      "arabicText": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُۥ",
+      "englishText": "Even if he presents his excuses.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075015.mp3"
+    },
+    {
+      "number": 16,
+      "arabicText": "لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ",
+      "englishText": "Move not your tongue with it, [O Muḥammad], to hasten with it [i.e., recitation of the Qur’ān].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075016.mp3"
+    },
+    {
+      "number": 17,
+      "arabicText": "إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ",
+      "englishText": "Indeed, upon Us is its collection [in your heart] and [to make possible] its recitation.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075017.mp3"
+    },
+    {
+      "number": 18,
+      "arabicText": "فَإِذَا قَرَأْنَـٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ",
+      "englishText": "So when We have recited it [through Gabriel], then follow its recitation.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075018.mp3"
+    },
+    {
+      "number": 19,
+      "arabicText": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُۥ",
+      "englishText": "Then upon Us is its clarification [to you].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075019.mp3"
+    },
+    {
+      "number": 20,
+      "arabicText": "كَلَّا بَلْ تُحِبُّونَ ٱلْعَاجِلَةَ",
+      "englishText": "No! But you [i.e., mankind] love the immediate",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075020.mp3"
+    },
+    {
+      "number": 21,
+      "arabicText": "وَتَذَرُونَ ٱلْـَٔاخِرَةَ",
+      "englishText": "And leave [i.e., neglect] the Hereafter.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075021.mp3"
+    },
+    {
+      "number": 22,
+      "arabicText": "وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ",
+      "englishText": "[Some] faces, that Day, will be radiant,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075022.mp3"
+    },
+    {
+      "number": 23,
+      "arabicText": "إِلَىٰ رَبِّهَا نَاظِرَةٌ",
+      "englishText": "Looking at their Lord.[1805]",
+      "footnotes": "[1805] The people of Paradise will actually see their Creator in the Hereafter.",
+      "audioUrl": "Alafasy/mp3/075023.mp3"
+    },
+    {
+      "number": 24,
+      "arabicText": "وَوُجُوهٌ يَوْمَئِذٍۭ بَاسِرَةٌ",
+      "englishText": "And [some] faces, that Day, will be contorted,",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075024.mp3"
+    },
+    {
+      "number": 25,
+      "arabicText": "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ",
+      "englishText": "Expecting that there will be done to them [something] backbreaking.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075025.mp3"
+    },
+    {
+      "number": 26,
+      "arabicText": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِىَ",
+      "englishText": "No! When it [i.e., the soul] has reached the collar bones[1806]",
+      "footnotes": "[1806] At the time it is about to leave the body when one is on the verge of death.",
+      "audioUrl": "Alafasy/mp3/075026.mp3"
+    },
+    {
+      "number": 27,
+      "arabicText": "وَقِيلَ مَنْ ۜ رَاقٍ",
+      "englishText": "And it is said, \"Who will cure [him]?\"",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075027.mp3"
+    },
+    {
+      "number": 28,
+      "arabicText": "وَظَنَّ أَنَّهُ ٱلْفِرَاقُ",
+      "englishText": "And he [i.e., the dying one] is certain that it is the [time of] separation",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075028.mp3"
+    },
+    {
+      "number": 29,
+      "arabicText": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+      "englishText": "And the leg is wound about the leg,[1807]",
+      "footnotes": "[1807] From the difficulties the person faces at death or his sudden awareness of the realities of both this world and the Hereafter. It may also refer to his shrouding after death.",
+      "audioUrl": "Alafasy/mp3/075029.mp3"
+    },
+    {
+      "number": 30,
+      "arabicText": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمَسَاقُ",
+      "englishText": "To your Lord, that Day, will be the procession.[1808]",
+      "footnotes": "[1808] Literally, \"driving\" or \"herding\" or \"the place to which one is driven.\"",
+      "audioUrl": "Alafasy/mp3/075030.mp3"
+    },
+    {
+      "number": 31,
+      "arabicText": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+      "englishText": "And he [i.e., the disbeliever] had not believed, nor had he prayed.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075031.mp3"
+    },
+    {
+      "number": 32,
+      "arabicText": "وَلَـٰكِن كَذَّبَ وَتَوَلَّىٰ",
+      "englishText": "But [instead], he denied and turned away.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075032.mp3"
+    },
+    {
+      "number": 33,
+      "arabicText": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهْلِهِۦ يَتَمَطَّىٰٓ",
+      "englishText": "And then he went to his people, swaggering [in pride].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075033.mp3"
+    },
+    {
+      "number": 34,
+      "arabicText": "أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+      "englishText": "Woe to you, and woe!",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075034.mp3"
+    },
+    {
+      "number": 35,
+      "arabicText": "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰٓ",
+      "englishText": "Then woe to you, and woe!",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075035.mp3"
+    },
+    {
+      "number": 36,
+      "arabicText": "أَيَحْسَبُ ٱلْإِنسَـٰنُ أَن يُتْرَكَ سُدًى",
+      "englishText": "Does man think that he will be left neglected?[1809]",
+      "footnotes": "[1809] i.e., to no end, without responsibility, or without being returned to the Creator for judgement.",
+      "audioUrl": "Alafasy/mp3/075036.mp3"
+    },
+    {
+      "number": 37,
+      "arabicText": "أَلَمْ يَكُ نُطْفَةً مِّن مَّنِىٍّ يُمْنَىٰ",
+      "englishText": "Had he not been a sperm from semen emitted?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075037.mp3"
+    },
+    {
+      "number": 38,
+      "arabicText": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ",
+      "englishText": "Then he was a clinging clot, and [Allāh] created [his form] and proportioned [him]",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075038.mp3"
+    },
+    {
+      "number": 39,
+      "arabicText": "فَجَعَلَ مِنْهُ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+      "englishText": "And made of him two mates, the male and the female.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075039.mp3"
+    },
+    {
+      "number": 40,
+      "arabicText": "أَلَيْسَ ذَٰلِكَ بِقَـٰدِرٍ عَلَىٰٓ أَن يُحْـِۧىَ ٱلْمَوْتَىٰ",
+      "englishText": "Is not that [Creator] Able to give life to the dead?",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/075040.mp3"
+    }
+  ]
+}

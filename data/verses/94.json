@@ -1,0 +1,67 @@
+{
+  "chapterId": 94,
+  "translation": {
+    "source": "QuranEnc.com",
+    "sourceUrl": "https://quranenc.com/en/home/api",
+    "title": "English Translation - Noor International Center",
+    "version": "1.1.2"
+  },
+  "verses": [
+    {
+      "number": 1,
+      "arabicText": " أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "englishText": "Did We not expand for you, [O Muḥammad], your breast?[1944]",
+      "footnotes": "[1944] i.e., enlighten, assure and gladden your heart with guidance.",
+      "audioUrl": "Alafasy/mp3/094001.mp3"
+    },
+    {
+      "number": 2,
+      "arabicText": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "englishText": "And We removed from you your burden[1945]",
+      "footnotes": "[1945] By forgiving any errors which you may have committed previously or might commit consequently. \"Burden\" can also refer to the anxiety experienced by the Prophet (ﷺ) at the beginning of his mission.",
+      "audioUrl": "Alafasy/mp3/094002.mp3"
+    },
+    {
+      "number": 3,
+      "arabicText": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "englishText": "Which had weighed upon your back",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/094003.mp3"
+    },
+    {
+      "number": 4,
+      "arabicText": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "englishText": "And raised high for you your repute.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/094004.mp3"
+    },
+    {
+      "number": 5,
+      "arabicText": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "englishText": "For indeed, with hardship [will be] ease [i.e., relief].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/094005.mp3"
+    },
+    {
+      "number": 6,
+      "arabicText": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "englishText": "Indeed, with hardship [will be] ease.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/094006.mp3"
+    },
+    {
+      "number": 7,
+      "arabicText": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "englishText": "So when you have finished [your duties], then stand up [for worship].",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/094007.mp3"
+    },
+    {
+      "number": 8,
+      "arabicText": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "englishText": "And to your Lord direct [your] longing.",
+      "footnotes": "",
+      "audioUrl": "Alafasy/mp3/094008.mp3"
+    }
+  ]
+}
