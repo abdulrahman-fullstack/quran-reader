@@ -8,7 +8,7 @@ Requires Node.js 18 or newer. Run `npm start`, then open <http://localhost:4173>
 
 ## Deploy
 
-The site is deployed to GitHub Pages by the workflow in `.github/workflows/pages.yml` whenever changes are pushed to `main`. The first run may require enabling **Settings → Pages → Build and deployment → GitHub Actions** in the repository.
+The site is deployed to GitHub Pages by the workflow in `.github/workflows/pages.yml` whenever changes are pushed to `main`. If the first deployment fails because Pages is disabled, enable **Settings → Pages → Build and deployment → GitHub Actions**, then push another commit to `main` to trigger deployment.
 
 ## Local data
 
